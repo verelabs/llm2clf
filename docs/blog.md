@@ -13,17 +13,17 @@ Two fixes make the probabilities usable:
 
 ## Results
 
-Six open models on Amazon Bedrock, against Jev (a purpose-built classifier) as the baseline. Four public tasks, 150 test items each.
+Six open models on Amazon Bedrock, against Jev (a purpose-built classifier) as the baseline. Four public tasks, 150 test items each. Jev's size is not published.
 
-| Model | BoolQ | MNLI | AG News | SST-5 | Mean | $ per 1k questions |
-|---|---|---|---|---|---|---|
-| Kimi K2.5 | 94.0% | 89.3% | 88.7% | 57.3% | 82.3% | $0.291 |
-| Qwen3-235B | 94.0% | 86.7% | 89.3% | 57.3% | 81.8% | $0.108 |
-| GLM-5 | 91.3% | 82.0% | 90.0% | 60.7% | 81.0% | $0.471 |
-| Jev (baseline) | 94.0% | 79.3% | 90.0% | 59.3% | 80.7% | $0.017 |
-| Mistral Large 3 | 88.7% | 85.3% | 89.3% | 56.7% | 80.0% | $0.238 |
-| DeepSeek V3.2 | 90.0% | 79.3% | 90.7% | 53.3% | 78.3% | $0.289 |
-| gpt-oss-120b | 92.7% | 76.7% | 87.3% | 56.7% | 78.3% | $0.094 |
+| Model | Size (total / active) | BoolQ | MNLI | AG News | SST-5 | Mean | $ per 1k questions |
+|---|---|---|---|---|---|---|---|
+| Kimi K2.5 | 1T / 32B | 94.0% | 89.3% | 88.7% | 57.3% | 82.3% | $0.291 |
+| Qwen3-235B | 235B / 22B | 94.0% | 86.7% | 89.3% | 57.3% | 81.8% | $0.108 |
+| GLM-5 | 744B / 40B | 91.3% | 82.0% | 90.0% | 60.7% | 81.0% | $0.471 |
+| Jev (baseline) | - | 94.0% | 79.3% | 90.0% | 59.3% | 80.7% | $0.017 |
+| Mistral Large 3 | 675B / 41B | 88.7% | 85.3% | 89.3% | 56.7% | 80.0% | $0.238 |
+| DeepSeek V3.2 | 671B / 37B | 90.0% | 79.3% | 90.7% | 53.3% | 78.3% | $0.289 |
+| gpt-oss-120b | 117B / 5.1B | 92.7% | 76.7% | 87.3% | 56.7% | 78.3% | $0.094 |
 
 ## What we learned
 
