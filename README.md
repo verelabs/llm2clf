@@ -55,6 +55,8 @@ Levels in the report: `raw` is one prompt in the listed order, `L0` adds permuta
 
 ## Results so far (2026-09-24)
 
+Write-up: [Can an open model be Jev? We built a clone and measured it](https://enclave.md/d/qcC763bnAVdDWEea) (source in [docs/blog.md](docs/blog.md)).
+
 Six open models on Bedrock against `jev-1.13.0`, 150 test items per task:
 
 - Accuracy: Kimi K2.5 (82.3% mean), Qwen3-235B (81.8%) and GLM-5 (81.0%) match Jev (80.7%); on MNLI, Kimi and Qwen beat Jev by 7 to 10 points.
