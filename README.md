@@ -62,15 +62,15 @@ Calibration error (ECE, lower is better), before / after fitting a temperature o
 
 Cost:
 
-| Model | $ per 1M input tokens | $ per 1,000 questions |
-|---|---|---|
-| Jev (baseline) | $0.042 | $0.017 |
-| gpt-oss-120b | $0.15 | $0.094 |
-| Qwen3-235B | $0.22 | $0.108 |
-| Mistral Large 3 | $0.50 | $0.238 |
-| DeepSeek V3.2 | $0.62 | $0.289 |
-| Kimi K2.5 | $0.60 | $0.291 |
-| GLM-5 | $1.00 | $0.471 |
+| Model | Size (total / active) | $ per 1M input tokens | $ per 1,000 questions |
+|---|---|---|---|
+| Jev (baseline) | - | $0.042 | $0.017 |
+| gpt-oss-120b | 117B / 5.1B | $0.15 | $0.094 |
+| Qwen3-235B | 235B / 22B | $0.22 | $0.108 |
+| Mistral Large 3 | 675B / 41B | $0.50 | $0.238 |
+| DeepSeek V3.2 | 671B / 37B | $0.62 | $0.289 |
+| Kimi K2.5 | 1T / 32B | $0.60 | $0.291 |
+| GLM-5 | 744B / 40B | $1.00 | $0.471 |
 
 On Bedrock every question resends the full state, so a request with 5 questions about one passage uses 4 to 5 times the input tokens Jev bills. Self-hosting with the SGLang backend should remove that overhead, because its prefix cache computes the state once for all questions. We project this would be much cheaper than Bedrock, but it is not measured yet, and it only holds if the GPU stays busy. It also depends on model size: the most accurate models above need a multi-GPU machine.
 
