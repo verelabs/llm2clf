@@ -2,7 +2,7 @@
 
 Turn any open-weights LLM into a calibrated classifier. Ask yes/no, multiple-choice or rating questions and get back a label with probabilities, read straight from the model's next-token distribution. Nothing is generated, so output tokens cost nothing.
 
-The API matches TypeSafe's `/v1/systemone` (Noul, Choice, Score), so existing clients work by changing the URL.
+Inspired by TypeSafe's [Jev](https://docs.typesafe.ai). The API matches its `/v1/systemone` (Noul, Choice, Score), so existing clients work by changing the URL.
 
 Write-up: [Turning open LLMs into calibrated classifiers](https://enclave.md/d/qcC763bnAVdDWEea)
 
