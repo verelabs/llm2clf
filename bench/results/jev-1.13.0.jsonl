@@ -1,0 +1,1200 @@
+{"id": "boolq-16", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.78, 0.21999999999999997], "input_tokens": 446}
+{"id": "boolq-0", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.25, 0.75], "input_tokens": 564}
+{"id": "boolq-110", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 528}
+{"id": "boolq-94", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 314}
+{"id": "boolq-114", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 409}
+{"id": "boolq-104", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 555}
+{"id": "boolq-92", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 360}
+{"id": "boolq-49", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.31, 0.69], "input_tokens": 407}
+{"id": "boolq-190", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.87, 0.13], "input_tokens": 410}
+{"id": "boolq-197", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.12, 0.88], "input_tokens": 343}
+{"id": "boolq-215", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 368}
+{"id": "boolq-221", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.12, 0.88], "input_tokens": 475}
+{"id": "boolq-203", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.09, 0.91], "input_tokens": 402}
+{"id": "boolq-118", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 382}
+{"id": "boolq-153", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 404}
+{"id": "boolq-160", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 383}
+{"id": "boolq-257", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.81, 0.18999999999999995], "input_tokens": 402}
+{"id": "boolq-242", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.51, 0.49], "input_tokens": 354}
+{"id": "boolq-254", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.09, 0.91], "input_tokens": 482}
+{"id": "boolq-244", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 405}
+{"id": "boolq-241", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 574}
+{"id": "boolq-248", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.72, 0.28], "input_tokens": 512}
+{"id": "boolq-253", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 414}
+{"id": "boolq-237", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.78, 0.21999999999999997], "input_tokens": 420}
+{"id": "boolq-281", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 413}
+{"id": "boolq-266", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 382}
+{"id": "boolq-275", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 419}
+{"id": "boolq-299", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 341}
+{"id": "boolq-296", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 397}
+{"id": "boolq-286", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 438}
+{"id": "boolq-288", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.95, 0.050000000000000044], "input_tokens": 398}
+{"id": "boolq-317", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.89, 0.10999999999999999], "input_tokens": 595}
+{"id": "boolq-339", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 443}
+{"id": "boolq-329", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 380}
+{"id": "boolq-330", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 380}
+{"id": "boolq-335", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 460}
+{"id": "boolq-352", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.76, 0.24], "input_tokens": 416}
+{"id": "boolq-351", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.12, 0.88], "input_tokens": 356}
+{"id": "boolq-372", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 375}
+{"id": "boolq-371", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 386}
+{"id": "boolq-383", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 358}
+{"id": "boolq-399", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 447}
+{"id": "boolq-385", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 372}
+{"id": "boolq-415", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 444}
+{"id": "boolq-418", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 444}
+{"id": "boolq-419", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.84, 0.16000000000000003], "input_tokens": 369}
+{"id": "boolq-422", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.06, 0.94], "input_tokens": 466}
+{"id": "boolq-424", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 425}
+{"id": "boolq-472", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.55, 0.44999999999999996], "input_tokens": 349}
+{"id": "boolq-479", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 481}
+{"id": "boolq-482", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.8, 0.19999999999999996], "input_tokens": 574}
+{"id": "boolq-483", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 383}
+{"id": "boolq-450", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.08, 0.92], "input_tokens": 389}
+{"id": "boolq-503", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.21, 0.79], "input_tokens": 430}
+{"id": "boolq-507", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.06, 0.94], "input_tokens": 422}
+{"id": "boolq-514", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 522}
+{"id": "boolq-529", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 409}
+{"id": "boolq-590", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 396}
+{"id": "boolq-545", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.03, 0.97], "input_tokens": 382}
+{"id": "boolq-596", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 650}
+{"id": "boolq-560", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.27, 0.73], "input_tokens": 397}
+{"id": "boolq-600", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 494}
+{"id": "boolq-608", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 483}
+{"id": "boolq-617", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 405}
+{"id": "boolq-661", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.81, 0.18999999999999995], "input_tokens": 370}
+{"id": "boolq-618", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 378}
+{"id": "boolq-664", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 423}
+{"id": "boolq-619", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.9, 0.09999999999999998], "input_tokens": 365}
+{"id": "boolq-622", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 534}
+{"id": "boolq-675", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.14, 0.86], "input_tokens": 339}
+{"id": "boolq-681", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.7, 0.30000000000000004], "input_tokens": 370}
+{"id": "boolq-684", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 345}
+{"id": "boolq-769", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 348}
+{"id": "boolq-736", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.6, 0.4], "input_tokens": 420}
+{"id": "boolq-746", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.21, 0.79], "input_tokens": 467}
+{"id": "boolq-780", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.95, 0.050000000000000044], "input_tokens": 389}
+{"id": "boolq-721", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 414}
+{"id": "boolq-688", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 435}
+{"id": "boolq-740", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 600}
+{"id": "boolq-793", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 479}
+{"id": "boolq-843", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 411}
+{"id": "boolq-799", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 505}
+{"id": "boolq-855", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 324}
+{"id": "boolq-840", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.07, 0.9299999999999999], "input_tokens": 353}
+{"id": "boolq-851", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 506}
+{"id": "boolq-879", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.15, 0.85], "input_tokens": 395}
+{"id": "boolq-818", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.92, 0.07999999999999996], "input_tokens": 405}
+{"id": "boolq-893", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.84, 0.16000000000000003], "input_tokens": 424}
+{"id": "boolq-905", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.92, 0.07999999999999996], "input_tokens": 534}
+{"id": "boolq-912", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.18, 0.8200000000000001], "input_tokens": 383}
+{"id": "boolq-928", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 462}
+{"id": "boolq-913", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 449}
+{"id": "boolq-914", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 409}
+{"id": "boolq-945", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 498}
+{"id": "boolq-950", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 448}
+{"id": "boolq-955", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 422}
+{"id": "boolq-980", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.12, 0.88], "input_tokens": 364}
+{"id": "boolq-985", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.17, 0.83], "input_tokens": 520}
+{"id": "boolq-999", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 339}
+{"id": "boolq-1033", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 441}
+{"id": "boolq-1017", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.09, 0.91], "input_tokens": 372}
+{"id": "boolq-1014", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 471}
+{"id": "boolq-1061", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 431}
+{"id": "boolq-1069", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 370}
+{"id": "boolq-1076", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.48, 0.52], "input_tokens": 353}
+{"id": "boolq-1084", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 331}
+{"id": "boolq-1105", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 306}
+{"id": "boolq-1138", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 378}
+{"id": "boolq-1140", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 403}
+{"id": "boolq-1144", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 383}
+{"id": "boolq-1154", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 423}
+{"id": "boolq-1165", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 364}
+{"id": "boolq-1177", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.59, 0.41000000000000003], "input_tokens": 397}
+{"id": "boolq-1179", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 481}
+{"id": "boolq-1186", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 336}
+{"id": "boolq-1220", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.55, 0.44999999999999996], "input_tokens": 430}
+{"id": "boolq-1227", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 341}
+{"id": "boolq-1263", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 539}
+{"id": "boolq-1268", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 540}
+{"id": "boolq-1229", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 367}
+{"id": "boolq-1277", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 536}
+{"id": "boolq-1286", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 399}
+{"id": "boolq-1285", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.07, 0.9299999999999999], "input_tokens": 423}
+{"id": "boolq-1326", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 350}
+{"id": "boolq-1350", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.12, 0.88], "input_tokens": 377}
+{"id": "boolq-1393", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.11, 0.89], "input_tokens": 366}
+{"id": "boolq-1305", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.09, 0.91], "input_tokens": 412}
+{"id": "boolq-1392", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 367}
+{"id": "boolq-1401", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.61, 0.39], "input_tokens": 345}
+{"id": "boolq-1403", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.14, 0.86], "input_tokens": 364}
+{"id": "boolq-1406", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 448}
+{"id": "boolq-1421", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 403}
+{"id": "boolq-1410", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 491}
+{"id": "boolq-1431", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.34, 0.6599999999999999], "input_tokens": 364}
+{"id": "boolq-1434", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 601}
+{"id": "boolq-1422", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.23, 0.77], "input_tokens": 358}
+{"id": "boolq-1455", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 354}
+{"id": "boolq-1456", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 382}
+{"id": "boolq-1481", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 566}
+{"id": "boolq-1469", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 719}
+{"id": "boolq-1491", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.97, 0.030000000000000027], "input_tokens": 469}
+{"id": "boolq-1493", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.05, 0.95], "input_tokens": 402}
+{"id": "boolq-1489", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.18, 0.8200000000000001], "input_tokens": 405}
+{"id": "boolq-1497", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.77, 0.22999999999999998], "input_tokens": 403}
+{"id": "boolq-1502", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 454}
+{"id": "boolq-1512", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.86, 0.14], "input_tokens": 311}
+{"id": "boolq-1541", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.02, 0.98], "input_tokens": 400}
+{"id": "boolq-1525", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 431}
+{"id": "boolq-1558", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.86, 0.14], "input_tokens": 435}
+{"id": "boolq-1580", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 391}
+{"id": "boolq-1601", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 431}
+{"id": "boolq-1607", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 418}
+{"id": "boolq-1614", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 498}
+{"id": "boolq-1617", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 309}
+{"id": "boolq-1624", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 439}
+{"id": "boolq-1629", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.47, 0.53], "input_tokens": 372}
+{"id": "boolq-1630", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 444}
+{"id": "boolq-1640", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 410}
+{"id": "boolq-1634", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 382}
+{"id": "boolq-1641", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 419}
+{"id": "boolq-1645", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 362}
+{"id": "boolq-1701", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 491}
+{"id": "boolq-1712", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.3, 0.7], "input_tokens": 471}
+{"id": "boolq-1716", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 337}
+{"id": "boolq-1727", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 428}
+{"id": "boolq-1738", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.16, 0.84], "input_tokens": 398}
+{"id": "boolq-1751", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.76, 0.24], "input_tokens": 419}
+{"id": "boolq-1763", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 364}
+{"id": "boolq-1776", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 432}
+{"id": "boolq-1804", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 447}
+{"id": "boolq-1825", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 457}
+{"id": "boolq-1831", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.1, 0.9], "input_tokens": 354}
+{"id": "boolq-1838", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 562}
+{"id": "boolq-1839", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 502}
+{"id": "boolq-1856", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.95, 0.050000000000000044], "input_tokens": 412}
+{"id": "boolq-1868", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 333}
+{"id": "boolq-1870", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.07, 0.9299999999999999], "input_tokens": 400}
+{"id": "boolq-1891", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 397}
+{"id": "boolq-1907", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 537}
+{"id": "boolq-1908", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.67, 0.32999999999999996], "input_tokens": 375}
+{"id": "boolq-1934", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 362}
+{"id": "boolq-1941", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.95, 0.050000000000000044], "input_tokens": 659}
+{"id": "boolq-1942", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 394}
+{"id": "boolq-1960", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 406}
+{"id": "boolq-1967", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.09, 0.91], "input_tokens": 375}
+{"id": "boolq-1972", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 353}
+{"id": "boolq-1981", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 494}
+{"id": "boolq-1986", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.66, 0.33999999999999997], "input_tokens": 450}
+{"id": "boolq-1999", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.08, 0.92], "input_tokens": 617}
+{"id": "boolq-2002", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 498}
+{"id": "boolq-2018", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 393}
+{"id": "boolq-2022", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 356}
+{"id": "boolq-2027", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 362}
+{"id": "boolq-2033", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 374}
+{"id": "boolq-2034", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 422}
+{"id": "boolq-2059", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.12, 0.88], "input_tokens": 346}
+{"id": "boolq-2078", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 374}
+{"id": "boolq-2096", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 406}
+{"id": "boolq-2111", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 539}
+{"id": "boolq-2114", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 430}
+{"id": "boolq-2120", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 418}
+{"id": "boolq-2123", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.42, 0.5800000000000001], "input_tokens": 357}
+{"id": "boolq-2151", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.69, 0.31000000000000005], "input_tokens": 331}
+{"id": "boolq-2163", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 462}
+{"id": "boolq-2177", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 323}
+{"id": "boolq-2189", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.83, 0.17000000000000004], "input_tokens": 410}
+{"id": "boolq-2181", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.86, 0.14], "input_tokens": 358}
+{"id": "boolq-2194", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 383}
+{"id": "boolq-2197", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.06, 0.94], "input_tokens": 425}
+{"id": "boolq-2224", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 465}
+{"id": "boolq-2214", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.07, 0.9299999999999999], "input_tokens": 514}
+{"id": "boolq-2218", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 451}
+{"id": "boolq-2250", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 447}
+{"id": "boolq-2253", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 396}
+{"id": "boolq-2243", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.59, 0.41000000000000003], "input_tokens": 326}
+{"id": "boolq-2257", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 517}
+{"id": "boolq-2280", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 489}
+{"id": "boolq-2285", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 535}
+{"id": "boolq-2294", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.65, 0.35], "input_tokens": 412}
+{"id": "boolq-2319", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 392}
+{"id": "boolq-2316", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 367}
+{"id": "boolq-2290", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 532}
+{"id": "boolq-2311", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.18, 0.8200000000000001], "input_tokens": 340}
+{"id": "boolq-2321", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 486}
+{"id": "boolq-2338", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 472}
+{"id": "boolq-2339", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 386}
+{"id": "boolq-2347", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.18, 0.8200000000000001], "input_tokens": 405}
+{"id": "boolq-2363", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 381}
+{"id": "boolq-2352", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 375}
+{"id": "boolq-2367", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 527}
+{"id": "boolq-2375", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.53, 0.47], "input_tokens": 325}
+{"id": "boolq-2382", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.52, 0.48], "input_tokens": 386}
+{"id": "boolq-2387", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.25, 0.75], "input_tokens": 399}
+{"id": "boolq-2398", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 397}
+{"id": "boolq-2413", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 545}
+{"id": "boolq-2434", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 459}
+{"id": "boolq-2466", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.79, 0.20999999999999996], "input_tokens": 310}
+{"id": "boolq-2460", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.06, 0.94], "input_tokens": 432}
+{"id": "boolq-2478", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.09, 0.91], "input_tokens": 363}
+{"id": "boolq-2494", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 375}
+{"id": "boolq-2497", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 433}
+{"id": "boolq-2513", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 347}
+{"id": "boolq-2529", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.82, 0.18000000000000005], "input_tokens": 360}
+{"id": "boolq-2502", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 365}
+{"id": "boolq-2515", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.52, 0.48], "input_tokens": 496}
+{"id": "boolq-2511", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.17, 0.83], "input_tokens": 372}
+{"id": "boolq-2535", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.04, 0.96], "input_tokens": 485}
+{"id": "boolq-2569", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.8, 0.19999999999999996], "input_tokens": 375}
+{"id": "boolq-2583", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.25, 0.75], "input_tokens": 356}
+{"id": "boolq-2598", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 468}
+{"id": "boolq-2606", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 498}
+{"id": "boolq-2616", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 400}
+{"id": "boolq-2650", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 441}
+{"id": "boolq-2633", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 425}
+{"id": "boolq-2666", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 433}
+{"id": "boolq-2682", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 380}
+{"id": "boolq-2697", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.81, 0.18999999999999995], "input_tokens": 423}
+{"id": "boolq-2720", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 372}
+{"id": "boolq-2737", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 354}
+{"id": "boolq-2738", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 535}
+{"id": "boolq-2769", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.96, 0.040000000000000036], "input_tokens": 511}
+{"id": "boolq-2787", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 323}
+{"id": "boolq-2786", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 362}
+{"id": "boolq-2790", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.05, 0.95], "input_tokens": 408}
+{"id": "boolq-2793", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 364}
+{"id": "boolq-2796", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 394}
+{"id": "boolq-2828", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 321}
+{"id": "boolq-2834", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 468}
+{"id": "boolq-2836", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 343}
+{"id": "boolq-2826", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.1, 0.9], "input_tokens": 370}
+{"id": "boolq-2847", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 664}
+{"id": "boolq-2851", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 422}
+{"id": "boolq-2855", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.21, 0.79], "input_tokens": 323}
+{"id": "boolq-2863", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 372}
+{"id": "boolq-2916", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 384}
+{"id": "boolq-2893", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.88, 0.12], "input_tokens": 431}
+{"id": "boolq-2935", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.03, 0.97], "input_tokens": 338}
+{"id": "boolq-2961", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.22, 0.78], "input_tokens": 497}
+{"id": "boolq-2873", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 368}
+{"id": "boolq-2987", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.06, 0.94], "input_tokens": 373}
+{"id": "boolq-2994", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.01, 0.99], "input_tokens": 385}
+{"id": "boolq-3024", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 448}
+{"id": "boolq-3032", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.02, 0.98], "input_tokens": 505}
+{"id": "boolq-3101", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 508}
+{"id": "boolq-3030", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.44, 0.56], "input_tokens": 425}
+{"id": "boolq-3105", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.89, 0.10999999999999999], "input_tokens": 358}
+{"id": "boolq-3070", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 393}
+{"id": "boolq-3106", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 423}
+{"id": "boolq-3131", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.98, 0.020000000000000018], "input_tokens": 360}
+{"id": "boolq-3146", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.97, 0.030000000000000027], "input_tokens": 501}
+{"id": "boolq-3161", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.94, 0.06000000000000005], "input_tokens": 412}
+{"id": "boolq-3191", "task": "boolq", "split": "calib", "kind": "noul", "gold": 1, "probs": [0.31, 0.69], "input_tokens": 384}
+{"id": "boolq-3183", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.8, 0.19999999999999996], "input_tokens": 393}
+{"id": "boolq-3229", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.92, 0.07999999999999996], "input_tokens": 395}
+{"id": "boolq-3194", "task": "boolq", "split": "test", "kind": "noul", "gold": 1, "probs": [0.05, 0.95], "input_tokens": 375}
+{"id": "boolq-3232", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.89, 0.10999999999999999], "input_tokens": 508}
+{"id": "boolq-3236", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.91, 0.08999999999999997], "input_tokens": 369}
+{"id": "boolq-3264", "task": "boolq", "split": "calib", "kind": "noul", "gold": 0, "probs": [0.81, 0.18999999999999995], "input_tokens": 401}
+{"id": "boolq-3253", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.93, 0.06999999999999995], "input_tokens": 368}
+{"id": "boolq-3268", "task": "boolq", "split": "test", "kind": "noul", "gold": 0, "probs": [0.99, 0.010000000000000009], "input_tokens": 412}
+{"id": "mnli-3", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 435}
+{"id": "mnli-67", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.03, 0.97], "input_tokens": 425}
+{"id": "mnli-31", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.55, 0.45, 0.0], "input_tokens": 431}
+{"id": "mnli-197", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.03, 0.36, 0.61], "input_tokens": 409}
+{"id": "mnli-233", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 412}
+{"id": "mnli-350", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.74, 0.19, 0.07], "input_tokens": 410}
+{"id": "mnli-369", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 415}
+{"id": "mnli-378", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 414}
+{"id": "mnli-451", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.71, 0.29, 0.0], "input_tokens": 420}
+{"id": "mnli-443", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.94, 0.06, 0.0], "input_tokens": 429}
+{"id": "mnli-417", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.73, 0.27, 0.0], "input_tokens": 396}
+{"id": "mnli-474", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.07, 0.93], "input_tokens": 413}
+{"id": "mnli-458", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.81, 0.19, 0.0], "input_tokens": 405}
+{"id": "mnli-457", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.23, 0.77], "input_tokens": 418}
+{"id": "mnli-614", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.16, 0.84], "input_tokens": 404}
+{"id": "mnli-642", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.95, 0.05, 0.0], "input_tokens": 415}
+{"id": "mnli-763", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.26, 0.74], "input_tokens": 423}
+{"id": "mnli-884", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 455}
+{"id": "mnli-861", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 412}
+{"id": "mnli-950", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.96, 0.03, 0.01], "input_tokens": 450}
+{"id": "mnli-965", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 415}
+{"id": "mnli-791", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.01, 0.09, 0.9], "input_tokens": 425}
+{"id": "mnli-812", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.74, 0.14, 0.12], "input_tokens": 426}
+{"id": "mnli-976", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 404}
+{"id": "mnli-968", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 415}
+{"id": "mnli-994", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 434}
+{"id": "mnli-1064", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.67, 0.17, 0.16], "input_tokens": 415}
+{"id": "mnli-1019", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.02, 0.98, 0.0], "input_tokens": 405}
+{"id": "mnli-1144", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.01, 0.98, 0.01], "input_tokens": 419}
+{"id": "mnli-1013", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.99, 0.01], "input_tokens": 418}
+{"id": "mnli-1028", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.76, 0.24, 0.0], "input_tokens": 418}
+{"id": "mnli-1103", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.39, 0.61, 0.0], "input_tokens": 405}
+{"id": "mnli-1126", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.88, 0.12], "input_tokens": 418}
+{"id": "mnli-1152", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.87, 0.13, 0.0], "input_tokens": 428}
+{"id": "mnli-1186", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 415}
+{"id": "mnli-1271", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.04, 0.96], "input_tokens": 421}
+{"id": "mnli-1199", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.47, 0.53], "input_tokens": 400}
+{"id": "mnli-1320", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.68, 0.32, 0.0], "input_tokens": 417}
+{"id": "mnli-1319", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.96, 0.04, 0.0], "input_tokens": 437}
+{"id": "mnli-1341", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 0.01, 0.99], "input_tokens": 436}
+{"id": "mnli-1359", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.11, 0.89, 0.0], "input_tokens": 409}
+{"id": "mnli-1389", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 395}
+{"id": "mnli-1407", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.71, 0.28, 0.01], "input_tokens": 430}
+{"id": "mnli-1408", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.07, 0.93, 0.0], "input_tokens": 399}
+{"id": "mnli-1391", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.95, 0.05], "input_tokens": 405}
+{"id": "mnli-1486", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [1.0, 0.0, 0.0], "input_tokens": 509}
+{"id": "mnli-1421", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 409}
+{"id": "mnli-1491", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 403}
+{"id": "mnli-1533", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.64, 0.3, 0.06], "input_tokens": 523}
+{"id": "mnli-1542", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.27, 0.73], "input_tokens": 414}
+{"id": "mnli-1683", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 460}
+{"id": "mnli-1596", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 408}
+{"id": "mnli-1662", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.69, 0.31, 0.0], "input_tokens": 402}
+{"id": "mnli-1674", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.36, 0.64], "input_tokens": 415}
+{"id": "mnli-1673", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.49, 0.51, 0.0], "input_tokens": 405}
+{"id": "mnli-1677", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 445}
+{"id": "mnli-1688", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.95, 0.02, 0.03], "input_tokens": 411}
+{"id": "mnli-1696", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.57, 0.41, 0.02], "input_tokens": 426}
+{"id": "mnli-1801", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.7, 0.3, 0.0], "input_tokens": 465}
+{"id": "mnli-1889", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 397}
+{"id": "mnli-1929", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 416}
+{"id": "mnli-1964", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.05, 0.94], "input_tokens": 411}
+{"id": "mnli-1934", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.93, 0.07], "input_tokens": 438}
+{"id": "mnli-1918", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.02, 0.44, 0.54], "input_tokens": 429}
+{"id": "mnli-2012", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.89, 0.04, 0.07], "input_tokens": 455}
+{"id": "mnli-2028", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.1, 0.89, 0.01], "input_tokens": 410}
+{"id": "mnli-2056", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.95, 0.05], "input_tokens": 416}
+{"id": "mnli-2081", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 453}
+{"id": "mnli-2243", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.01, 0.98, 0.01], "input_tokens": 415}
+{"id": "mnli-2119", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.09, 0.91], "input_tokens": 414}
+{"id": "mnli-2181", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.34, 0.66, 0.0], "input_tokens": 408}
+{"id": "mnli-2146", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 423}
+{"id": "mnli-2281", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 401}
+{"id": "mnli-2361", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.79, 0.15, 0.06], "input_tokens": 413}
+{"id": "mnli-2386", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 406}
+{"id": "mnli-2363", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.01, 0.88, 0.11], "input_tokens": 411}
+{"id": "mnli-2401", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 0.96, 0.04], "input_tokens": 423}
+{"id": "mnli-2471", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 409}
+{"id": "mnli-2433", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 403}
+{"id": "mnli-2472", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.01, 0.48, 0.51], "input_tokens": 428}
+{"id": "mnli-2394", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 444}
+{"id": "mnli-2476", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.93, 0.06], "input_tokens": 433}
+{"id": "mnli-2478", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 457}
+{"id": "mnli-2490", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.39, 0.61], "input_tokens": 410}
+{"id": "mnli-2554", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 403}
+{"id": "mnli-2645", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.03, 0.97, 0.0], "input_tokens": 406}
+{"id": "mnli-2602", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.4, 0.6], "input_tokens": 414}
+{"id": "mnli-2659", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "mnli-2702", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.13, 0.87, 0.0], "input_tokens": 411}
+{"id": "mnli-2725", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.04, 0.96, 0.0], "input_tokens": 419}
+{"id": "mnli-2924", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 417}
+{"id": "mnli-2736", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 428}
+{"id": "mnli-2887", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.99, 0.01, 0.0], "input_tokens": 426}
+{"id": "mnli-2753", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.95, 0.05, 0.0], "input_tokens": 411}
+{"id": "mnli-2785", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.11, 0.89, 0.0], "input_tokens": 418}
+{"id": "mnli-2945", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.87, 0.13, 0.0], "input_tokens": 426}
+{"id": "mnli-2961", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.46, 0.54, 0.0], "input_tokens": 442}
+{"id": "mnli-2987", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 435}
+{"id": "mnli-3122", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.95, 0.03, 0.02], "input_tokens": 433}
+{"id": "mnli-3078", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.82, 0.18, 0.0], "input_tokens": 401}
+{"id": "mnli-3172", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 404}
+{"id": "mnli-3191", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.03, 0.88, 0.09], "input_tokens": 415}
+{"id": "mnli-3197", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 416}
+{"id": "mnli-3222", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.99, 0.01, 0.0], "input_tokens": 428}
+{"id": "mnli-3265", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.04, 0.96, 0.0], "input_tokens": 446}
+{"id": "mnli-3275", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.04, 0.96], "input_tokens": 421}
+{"id": "mnli-3348", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.38, 0.62, 0.0], "input_tokens": 412}
+{"id": "mnli-3374", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.01, 0.02, 0.97], "input_tokens": 426}
+{"id": "mnli-3362", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.91, 0.03, 0.06], "input_tokens": 428}
+{"id": "mnli-3407", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 425}
+{"id": "mnli-3420", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 407}
+{"id": "mnli-3457", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.81, 0.19], "input_tokens": 415}
+{"id": "mnli-3486", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.7, 0.3, 0.0], "input_tokens": 423}
+{"id": "mnli-3517", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 400}
+{"id": "mnli-3622", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 408}
+{"id": "mnli-3612", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 0.72, 0.28], "input_tokens": 410}
+{"id": "mnli-3650", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.95, 0.05], "input_tokens": 405}
+{"id": "mnli-3575", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.79, 0.2, 0.01], "input_tokens": 415}
+{"id": "mnli-3654", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.24, 0.76, 0.0], "input_tokens": 398}
+{"id": "mnli-3657", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 439}
+{"id": "mnli-3714", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.9, 0.09, 0.01], "input_tokens": 414}
+{"id": "mnli-3716", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.94, 0.05, 0.01], "input_tokens": 416}
+{"id": "mnli-3780", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.86, 0.13, 0.01], "input_tokens": 422}
+{"id": "mnli-3822", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 428}
+{"id": "mnli-3800", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.07, 0.92, 0.01], "input_tokens": 414}
+{"id": "mnli-3922", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.76, 0.24, 0.0], "input_tokens": 458}
+{"id": "mnli-3940", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.05, 0.66, 0.29], "input_tokens": 439}
+{"id": "mnli-3943", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 407}
+{"id": "mnli-3999", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.77, 0.22, 0.01], "input_tokens": 447}
+{"id": "mnli-4056", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.94, 0.06, 0.0], "input_tokens": 426}
+{"id": "mnli-4070", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 424}
+{"id": "mnli-4126", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.46, 0.53], "input_tokens": 415}
+{"id": "mnli-4132", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 400}
+{"id": "mnli-4246", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.95, 0.05, 0.0], "input_tokens": 449}
+{"id": "mnli-4278", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.03, 0.97, 0.0], "input_tokens": 417}
+{"id": "mnli-4249", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.99, 0.01], "input_tokens": 420}
+{"id": "mnli-4304", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 439}
+{"id": "mnli-4337", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.75, 0.25, 0.0], "input_tokens": 435}
+{"id": "mnli-4422", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.01, 0.55, 0.44], "input_tokens": 434}
+{"id": "mnli-4552", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.91, 0.09], "input_tokens": 425}
+{"id": "mnli-4561", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.99, 0.01], "input_tokens": 421}
+{"id": "mnli-4577", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.35, 0.64], "input_tokens": 401}
+{"id": "mnli-4662", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.1, 0.9], "input_tokens": 405}
+{"id": "mnli-4619", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.93, 0.07, 0.0], "input_tokens": 400}
+{"id": "mnli-4709", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.04, 0.96], "input_tokens": 421}
+{"id": "mnli-4717", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.43, 0.56, 0.01], "input_tokens": 447}
+{"id": "mnli-4744", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.63, 0.36, 0.01], "input_tokens": 419}
+{"id": "mnli-4799", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 0.88, 0.12], "input_tokens": 422}
+{"id": "mnli-4911", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 434}
+{"id": "mnli-4883", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.39, 0.61, 0.0], "input_tokens": 433}
+{"id": "mnli-4919", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.87, 0.13, 0.0], "input_tokens": 411}
+{"id": "mnli-5054", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.16, 0.8099999999999999, 0.03], "input_tokens": 482}
+{"id": "mnli-5072", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.95, 0.04, 0.01], "input_tokens": 435}
+{"id": "mnli-5109", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.66, 0.34, 0.0], "input_tokens": 424}
+{"id": "mnli-5140", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.11, 0.88, 0.01], "input_tokens": 415}
+{"id": "mnli-5146", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 431}
+{"id": "mnli-5401", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.89, 0.11, 0.0], "input_tokens": 406}
+{"id": "mnli-5220", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.51, 0.49], "input_tokens": 444}
+{"id": "mnli-5341", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.9, 0.1, 0.0], "input_tokens": 412}
+{"id": "mnli-5305", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 419}
+{"id": "mnli-5447", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 421}
+{"id": "mnli-5533", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.7, 0.3], "input_tokens": 423}
+{"id": "mnli-5571", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.94, 0.06], "input_tokens": 455}
+{"id": "mnli-5572", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.04, 0.9, 0.06], "input_tokens": 440}
+{"id": "mnli-5613", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 416}
+{"id": "mnli-5604", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.79, 0.2, 0.01], "input_tokens": 399}
+{"id": "mnli-5627", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.01, 0.96, 0.03], "input_tokens": 409}
+{"id": "mnli-5636", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.6, 0.4], "input_tokens": 397}
+{"id": "mnli-5640", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.18, 0.8200000000000001], "input_tokens": 421}
+{"id": "mnli-5685", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.94, 0.06, 0.0], "input_tokens": 402}
+{"id": "mnli-5691", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 416}
+{"id": "mnli-5726", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.02, 0.39, 0.59], "input_tokens": 401}
+{"id": "mnli-5825", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.99, 0.01, 0.0], "input_tokens": 437}
+{"id": "mnli-5737", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 456}
+{"id": "mnli-5741", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.31, 0.68], "input_tokens": 413}
+{"id": "mnli-5827", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 425}
+{"id": "mnli-5823", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.07, 0.93], "input_tokens": 428}
+{"id": "mnli-5878", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.43, 0.5599999999999999, 0.01], "input_tokens": 404}
+{"id": "mnli-5924", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.49, 0.51], "input_tokens": 432}
+{"id": "mnli-5926", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.04, 0.96], "input_tokens": 411}
+{"id": "mnli-5957", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.25, 0.75, 0.0], "input_tokens": 396}
+{"id": "mnli-5974", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.79, 0.21], "input_tokens": 410}
+{"id": "mnli-5966", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.88, 0.12, 0.0], "input_tokens": 408}
+{"id": "mnli-5991", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 408}
+{"id": "mnli-6008", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.91, 0.09, 0.0], "input_tokens": 401}
+{"id": "mnli-6049", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.76, 0.24, 0.0], "input_tokens": 433}
+{"id": "mnli-6101", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.68, 0.32, 0.0], "input_tokens": 406}
+{"id": "mnli-6164", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.01, 0.99, 0.0], "input_tokens": 410}
+{"id": "mnli-6233", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.97, 0.03, 0.0], "input_tokens": 446}
+{"id": "mnli-6320", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.06, 0.94], "input_tokens": 448}
+{"id": "mnli-6365", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 421}
+{"id": "mnli-6405", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.94, 0.06, 0.0], "input_tokens": 424}
+{"id": "mnli-6428", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.62, 0.37, 0.01], "input_tokens": 440}
+{"id": "mnli-6457", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.13, 0.87], "input_tokens": 429}
+{"id": "mnli-6468", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.99, 0.01, 0.0], "input_tokens": 454}
+{"id": "mnli-6499", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.72, 0.28, 0.0], "input_tokens": 396}
+{"id": "mnli-6485", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.71, 0.29], "input_tokens": 401}
+{"id": "mnli-6521", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.85, 0.15, 0.0], "input_tokens": 459}
+{"id": "mnli-6536", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "mnli-6519", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 423}
+{"id": "mnli-6560", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.49, 0.51, 0.0], "input_tokens": 420}
+{"id": "mnli-6564", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.92, 0.08], "input_tokens": 422}
+{"id": "mnli-6576", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 423}
+{"id": "mnli-6580", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.04, 0.96, 0.0], "input_tokens": 407}
+{"id": "mnli-6804", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 395}
+{"id": "mnli-6850", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.53, 0.46], "input_tokens": 405}
+{"id": "mnli-6851", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.07, 0.93], "input_tokens": 418}
+{"id": "mnli-6864", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.03, 0.97], "input_tokens": 427}
+{"id": "mnli-6867", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.99, 0.01, 0.0], "input_tokens": 425}
+{"id": "mnli-6909", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 431}
+{"id": "mnli-6955", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.01, 0.99, 0.0], "input_tokens": 410}
+{"id": "mnli-7005", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.11, 0.33, 0.56], "input_tokens": 429}
+{"id": "mnli-7104", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "mnli-7053", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.03, 0.97], "input_tokens": 411}
+{"id": "mnli-7107", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 424}
+{"id": "mnli-7109", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 407}
+{"id": "mnli-7219", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.13, 0.87, 0.0], "input_tokens": 412}
+{"id": "mnli-7301", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.46, 0.5, 0.04], "input_tokens": 504}
+{"id": "mnli-7327", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.02, 0.92, 0.06], "input_tokens": 409}
+{"id": "mnli-7353", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.61, 0.05, 0.34], "input_tokens": 459}
+{"id": "mnli-7359", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 428}
+{"id": "mnli-7424", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.41, 0.59, 0.0], "input_tokens": 412}
+{"id": "mnli-7474", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.7, 0.3], "input_tokens": 398}
+{"id": "mnli-7481", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 413}
+{"id": "mnli-7564", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.62, 0.38, 0.0], "input_tokens": 446}
+{"id": "mnli-7588", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.07, 0.52, 0.41], "input_tokens": 415}
+{"id": "mnli-7628", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 429}
+{"id": "mnli-7624", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.03, 0.97, 0.0], "input_tokens": 429}
+{"id": "mnli-7634", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.5700000000000001, 0.43, 0.0], "input_tokens": 414}
+{"id": "mnli-7701", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 1.0, 0.0], "input_tokens": 402}
+{"id": "mnli-7737", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.99, 0.01], "input_tokens": 431}
+{"id": "mnli-7767", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 419}
+{"id": "mnli-7768", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.95, 0.03, 0.02], "input_tokens": 429}
+{"id": "mnli-7771", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.38, 0.61, 0.01], "input_tokens": 434}
+{"id": "mnli-7841", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 432}
+{"id": "mnli-7870", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 0.06, 0.94], "input_tokens": 422}
+{"id": "mnli-7855", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 419}
+{"id": "mnli-7889", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.01, 0.99, 0.0], "input_tokens": 407}
+{"id": "mnli-7832", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.03, 0.94, 0.03], "input_tokens": 432}
+{"id": "mnli-7927", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.01, 0.35, 0.64], "input_tokens": 401}
+{"id": "mnli-7907", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.96, 0.03, 0.01], "input_tokens": 415}
+{"id": "mnli-7945", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.01, 0.99, 0.0], "input_tokens": 419}
+{"id": "mnli-7996", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.72, 0.26, 0.02], "input_tokens": 408}
+{"id": "mnli-8011", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 448}
+{"id": "mnli-8088", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.19, 0.81], "input_tokens": 394}
+{"id": "mnli-8111", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.48, 0.52], "input_tokens": 422}
+{"id": "mnli-8073", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.97, 0.03], "input_tokens": 470}
+{"id": "mnli-8133", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.81, 0.19, 0.0], "input_tokens": 433}
+{"id": "mnli-8134", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.02, 0.95, 0.03], "input_tokens": 407}
+{"id": "mnli-8137", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.6799999999999999, 0.31, 0.01], "input_tokens": 410}
+{"id": "mnli-8236", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.04, 0.96, 0.0], "input_tokens": 433}
+{"id": "mnli-8211", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 443}
+{"id": "mnli-8313", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 413}
+{"id": "mnli-8387", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 429}
+{"id": "mnli-8445", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.96, 0.04, 0.0], "input_tokens": 410}
+{"id": "mnli-8459", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.4, 0.58, 0.02], "input_tokens": 429}
+{"id": "mnli-8480", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.01, 0.45, 0.54], "input_tokens": 440}
+{"id": "mnli-8493", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.01, 0.99], "input_tokens": 403}
+{"id": "mnli-8627", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.6, 0.39, 0.01], "input_tokens": 436}
+{"id": "mnli-8604", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.37, 0.63, 0.0], "input_tokens": 426}
+{"id": "mnli-8711", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.02, 0.98], "input_tokens": 400}
+{"id": "mnli-8652", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 472}
+{"id": "mnli-8654", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.1, 0.9, 0.0], "input_tokens": 404}
+{"id": "mnli-8725", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 437}
+{"id": "mnli-8758", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.33, 0.66, 0.01], "input_tokens": 413}
+{"id": "mnli-8779", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 0.99, 0.01], "input_tokens": 436}
+{"id": "mnli-8858", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "mnli-8791", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.02, 0.98, 0.0], "input_tokens": 449}
+{"id": "mnli-8899", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.98, 0.02, 0.0], "input_tokens": 400}
+{"id": "mnli-8974", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.91, 0.09], "input_tokens": 396}
+{"id": "mnli-8873", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.98, 0.02], "input_tokens": 442}
+{"id": "mnli-8983", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.7, 0.3, 0.0], "input_tokens": 422}
+{"id": "mnli-8989", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 412}
+{"id": "mnli-9002", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.25, 0.48, 0.27], "input_tokens": 401}
+{"id": "mnli-9014", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.22, 0.76, 0.02], "input_tokens": 408}
+{"id": "mnli-9028", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.29, 0.7], "input_tokens": 408}
+{"id": "mnli-9120", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.96, 0.04, 0.0], "input_tokens": 410}
+{"id": "mnli-9143", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 420}
+{"id": "mnli-9163", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.6, 0.4, 0.0], "input_tokens": 435}
+{"id": "mnli-9246", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.1, 0.9], "input_tokens": 405}
+{"id": "mnli-9179", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.87, 0.11, 0.02], "input_tokens": 425}
+{"id": "mnli-9264", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.01, 0.28, 0.71], "input_tokens": 404}
+{"id": "mnli-9278", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.26, 0.72, 0.02], "input_tokens": 408}
+{"id": "mnli-9286", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.33, 0.67, 0.0], "input_tokens": 459}
+{"id": "mnli-9353", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 423}
+{"id": "mnli-9358", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 417}
+{"id": "mnli-9388", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.42, 0.52, 0.06], "input_tokens": 428}
+{"id": "mnli-9411", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0], "input_tokens": 415}
+{"id": "mnli-9455", "task": "mnli", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.95, 0.05, 0.0], "input_tokens": 426}
+{"id": "mnli-9469", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "mnli-9501", "task": "mnli", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0], "input_tokens": 440}
+{"id": "mnli-9528", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.81, 0.19], "input_tokens": 401}
+{"id": "mnli-9548", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.08, 0.92, 0.0], "input_tokens": 414}
+{"id": "mnli-9551", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.13, 0.87], "input_tokens": 426}
+{"id": "mnli-9593", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.98, 0.02], "input_tokens": 424}
+{"id": "mnli-9652", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 0.99, 0.01], "input_tokens": 409}
+{"id": "mnli-9608", "task": "mnli", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.63, 0.37], "input_tokens": 444}
+{"id": "mnli-9679", "task": "mnli", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 0.09, 0.91], "input_tokens": 421}
+{"id": "mnli-9738", "task": "mnli", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.01, 0.99, 0.0], "input_tokens": 438}
+{"id": "mnli-9762", "task": "mnli", "split": "test", "kind": "choice", "gold": 1, "probs": [0.29, 0.71, 0.0], "input_tokens": 402}
+{"id": "ag_news-1", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 456}
+{"id": "ag_news-33", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.98, 0.0, 0.02, 0.0], "input_tokens": 458}
+{"id": "ag_news-98", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 446}
+{"id": "ag_news-189", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.32, 0.68], "input_tokens": 405}
+{"id": "ag_news-184", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 458}
+{"id": "ag_news-208", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 416}
+{"id": "ag_news-221", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-307", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.56, 0.0, 0.01, 0.43], "input_tokens": 406}
+{"id": "ag_news-321", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 446}
+{"id": "ag_news-381", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 448}
+{"id": "ag_news-395", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 426}
+{"id": "ag_news-406", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 434}
+{"id": "ag_news-430", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-442", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 442}
+{"id": "ag_news-475", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.97, 0.03], "input_tokens": 426}
+{"id": "ag_news-484", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 432}
+{"id": "ag_news-488", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 429}
+{"id": "ag_news-482", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.02, 0.0, 0.98, 0.0], "input_tokens": 422}
+{"id": "ag_news-497", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 405}
+{"id": "ag_news-506", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 408}
+{"id": "ag_news-509", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.2, 0.8], "input_tokens": 400}
+{"id": "ag_news-514", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 446}
+{"id": "ag_news-551", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 470}
+{"id": "ag_news-532", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.12, 0.88], "input_tokens": 413}
+{"id": "ag_news-563", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.68, 0.0, 0.0, 0.32], "input_tokens": 435}
+{"id": "ag_news-572", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 419}
+{"id": "ag_news-576", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 440}
+{"id": "ag_news-593", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-599", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 427}
+{"id": "ag_news-635", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.12, 0.0, 0.0, 0.88], "input_tokens": 434}
+{"id": "ag_news-660", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.2, 0.8], "input_tokens": 436}
+{"id": "ag_news-670", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 411}
+{"id": "ag_news-679", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 415}
+{"id": "ag_news-703", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 416}
+{"id": "ag_news-743", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 427}
+{"id": "ag_news-745", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-704", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 441}
+{"id": "ag_news-766", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-798", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 450}
+{"id": "ag_news-831", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 438}
+{"id": "ag_news-771", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 433}
+{"id": "ag_news-837", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-848", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-838", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.9, 0.0, 0.01, 0.09], "input_tokens": 435}
+{"id": "ag_news-844", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 461}
+{"id": "ag_news-900", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 448}
+{"id": "ag_news-959", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 415}
+{"id": "ag_news-944", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 410}
+{"id": "ag_news-964", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-1014", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.02, 0.98], "input_tokens": 411}
+{"id": "ag_news-967", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 469}
+{"id": "ag_news-1006", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 438}
+{"id": "ag_news-1028", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 427}
+{"id": "ag_news-1059", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 410}
+{"id": "ag_news-1121", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-1090", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 421}
+{"id": "ag_news-1180", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 442}
+{"id": "ag_news-1181", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 411}
+{"id": "ag_news-1193", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-1216", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 459}
+{"id": "ag_news-1200", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 425}
+{"id": "ag_news-1235", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 413}
+{"id": "ag_news-1236", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.04, 0.96], "input_tokens": 423}
+{"id": "ag_news-1239", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-1245", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 446}
+{"id": "ag_news-1329", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 434}
+{"id": "ag_news-1322", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-1351", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 465}
+{"id": "ag_news-1362", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 430}
+{"id": "ag_news-1376", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-1443", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 406}
+{"id": "ag_news-1472", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 432}
+{"id": "ag_news-1480", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-1493", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 429}
+{"id": "ag_news-1539", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.96, 0.0, 0.04, 0.0], "input_tokens": 407}
+{"id": "ag_news-1561", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 412}
+{"id": "ag_news-1681", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-1687", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 433}
+{"id": "ag_news-1703", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.96, 0.04], "input_tokens": 419}
+{"id": "ag_news-1758", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-1710", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.99], "input_tokens": 420}
+{"id": "ag_news-1811", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.98, 0.02], "input_tokens": 426}
+{"id": "ag_news-1828", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 436}
+{"id": "ag_news-1787", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 433}
+{"id": "ag_news-1890", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.1, 0.9], "input_tokens": 429}
+{"id": "ag_news-1900", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 429}
+{"id": "ag_news-1911", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.03, 0.0, 0.0, 0.97], "input_tokens": 431}
+{"id": "ag_news-1971", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.9, 0.01, 0.08, 0.01], "input_tokens": 435}
+{"id": "ag_news-1999", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 449}
+{"id": "ag_news-2028", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 409}
+{"id": "ag_news-2035", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.78, 0.22], "input_tokens": 433}
+{"id": "ag_news-2066", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 447}
+{"id": "ag_news-2139", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 410}
+{"id": "ag_news-2152", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 447}
+{"id": "ag_news-2168", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.95, 0.05], "input_tokens": 439}
+{"id": "ag_news-2211", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 453}
+{"id": "ag_news-2276", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 425}
+{"id": "ag_news-2280", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-2309", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "ag_news-2331", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 430}
+{"id": "ag_news-2354", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.99, 0.01], "input_tokens": 411}
+{"id": "ag_news-2358", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.07, 0.93], "input_tokens": 485}
+{"id": "ag_news-2372", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 441}
+{"id": "ag_news-2441", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.99], "input_tokens": 412}
+{"id": "ag_news-2455", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-2527", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 440}
+{"id": "ag_news-2459", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-2536", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 430}
+{"id": "ag_news-2554", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 447}
+{"id": "ag_news-2570", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 443}
+{"id": "ag_news-2573", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-2652", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-2610", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.5, 0.5], "input_tokens": 428}
+{"id": "ag_news-2786", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.15, 0.0, 0.85, 0.0], "input_tokens": 414}
+{"id": "ag_news-2785", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 403}
+{"id": "ag_news-2802", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 419}
+{"id": "ag_news-2806", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 448}
+{"id": "ag_news-2813", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 424}
+{"id": "ag_news-2842", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 417}
+{"id": "ag_news-2845", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 413}
+{"id": "ag_news-2868", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.99, 0.01], "input_tokens": 444}
+{"id": "ag_news-2939", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.77, 0.23], "input_tokens": 396}
+{"id": "ag_news-2911", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "ag_news-2963", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 414}
+{"id": "ag_news-2962", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.5, 0.5], "input_tokens": 399}
+{"id": "ag_news-2978", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.58, 0.42], "input_tokens": 441}
+{"id": "ag_news-2983", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-2995", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 450}
+{"id": "ag_news-3024", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 441}
+{"id": "ag_news-3082", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 415}
+{"id": "ag_news-3050", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 439}
+{"id": "ag_news-3116", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.7, 0.0, 0.3, 0.0], "input_tokens": 423}
+{"id": "ag_news-3160", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-3202", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 441}
+{"id": "ag_news-3214", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 438}
+{"id": "ag_news-3228", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-3234", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 411}
+{"id": "ag_news-3249", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 436}
+{"id": "ag_news-3259", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-3260", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 411}
+{"id": "ag_news-3268", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 441}
+{"id": "ag_news-3280", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-3290", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.03, 0.97], "input_tokens": 424}
+{"id": "ag_news-3402", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 456}
+{"id": "ag_news-3425", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 404}
+{"id": "ag_news-3432", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 429}
+{"id": "ag_news-3433", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.48, 0.0, 0.0, 0.52], "input_tokens": 429}
+{"id": "ag_news-3454", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-3477", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 416}
+{"id": "ag_news-3502", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 442}
+{"id": "ag_news-3609", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-3526", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 428}
+{"id": "ag_news-3552", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 428}
+{"id": "ag_news-3650", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 402}
+{"id": "ag_news-3676", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 461}
+{"id": "ag_news-3679", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.01, 0.0, 0.01, 0.98], "input_tokens": 414}
+{"id": "ag_news-3712", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-3737", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 447}
+{"id": "ag_news-3740", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 444}
+{"id": "ag_news-3782", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 405}
+{"id": "ag_news-3814", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-3817", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 435}
+{"id": "ag_news-3883", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 415}
+{"id": "ag_news-3884", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 451}
+{"id": "ag_news-3920", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 423}
+{"id": "ag_news-3935", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 436}
+{"id": "ag_news-3944", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 442}
+{"id": "ag_news-3963", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 419}
+{"id": "ag_news-3972", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 468}
+{"id": "ag_news-3998", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.21, 0.0, 0.0, 0.79], "input_tokens": 406}
+{"id": "ag_news-4005", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 429}
+{"id": "ag_news-4044", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-4055", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.22, 0.0, 0.09, 0.69], "input_tokens": 435}
+{"id": "ag_news-4066", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 463}
+{"id": "ag_news-4067", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "ag_news-4156", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 402}
+{"id": "ag_news-4068", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-4193", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 412}
+{"id": "ag_news-4222", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.92, 0.08], "input_tokens": 427}
+{"id": "ag_news-4229", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 401}
+{"id": "ag_news-4246", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 432}
+{"id": "ag_news-4302", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 399}
+{"id": "ag_news-4326", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 415}
+{"id": "ag_news-4327", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 451}
+{"id": "ag_news-4355", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 403}
+{"id": "ag_news-4389", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 439}
+{"id": "ag_news-4379", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 433}
+{"id": "ag_news-4395", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 427}
+{"id": "ag_news-4429", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-4449", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 430}
+{"id": "ag_news-4487", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-4501", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.99, 0.01], "input_tokens": 415}
+{"id": "ag_news-4507", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.15, 0.85], "input_tokens": 426}
+{"id": "ag_news-4514", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 405}
+{"id": "ag_news-4560", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 432}
+{"id": "ag_news-4581", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 433}
+{"id": "ag_news-4571", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.02, 0.98], "input_tokens": 417}
+{"id": "ag_news-4589", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 435}
+{"id": "ag_news-4623", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.05, 0.95], "input_tokens": 428}
+{"id": "ag_news-4632", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-4639", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 436}
+{"id": "ag_news-4643", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.01, 0.0, 0.0, 0.99], "input_tokens": 424}
+{"id": "ag_news-4676", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.23, 0.77], "input_tokens": 407}
+{"id": "ag_news-4694", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 448}
+{"id": "ag_news-4679", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 427}
+{"id": "ag_news-4705", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 419}
+{"id": "ag_news-4727", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 411}
+{"id": "ag_news-4734", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 425}
+{"id": "ag_news-4764", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-4750", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 421}
+{"id": "ag_news-4796", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.46, 0.54], "input_tokens": 413}
+{"id": "ag_news-4774", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 428}
+{"id": "ag_news-4775", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 433}
+{"id": "ag_news-4826", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.03, 0.97], "input_tokens": 417}
+{"id": "ag_news-4869", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.19, 0.81], "input_tokens": 397}
+{"id": "ag_news-4921", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.67, 0.0, 0.09, 0.24], "input_tokens": 408}
+{"id": "ag_news-4933", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.26, 0.74, 0.0, 0.0], "input_tokens": 425}
+{"id": "ag_news-4988", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.02, 0.0, 0.21, 0.77], "input_tokens": 427}
+{"id": "ag_news-5004", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 431}
+{"id": "ag_news-4995", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-5027", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 450}
+{"id": "ag_news-5030", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 434}
+{"id": "ag_news-5070", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-5059", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 423}
+{"id": "ag_news-5166", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.29, 0.71], "input_tokens": 417}
+{"id": "ag_news-5139", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.01, 0.0, 0.0, 0.99], "input_tokens": 427}
+{"id": "ag_news-5196", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 422}
+{"id": "ag_news-5197", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-5233", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.91, 0.09], "input_tokens": 414}
+{"id": "ag_news-5266", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.09, 0.0, 0.91, 0.0], "input_tokens": 406}
+{"id": "ag_news-5301", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 451}
+{"id": "ag_news-5332", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-5365", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 436}
+{"id": "ag_news-5394", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.07, 0.0, 0.0, 0.93], "input_tokens": 421}
+{"id": "ag_news-5477", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 416}
+{"id": "ag_news-5440", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-5474", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 467}
+{"id": "ag_news-5539", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-5575", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 400}
+{"id": "ag_news-5573", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-5586", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-5580", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 425}
+{"id": "ag_news-5592", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 426}
+{"id": "ag_news-5653", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 446}
+{"id": "ag_news-5656", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 429}
+{"id": "ag_news-5669", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-5695", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 394}
+{"id": "ag_news-5703", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.37, 0.0, 0.63, 0.0], "input_tokens": 422}
+{"id": "ag_news-5710", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-5726", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 419}
+{"id": "ag_news-5786", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 424}
+{"id": "ag_news-5746", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 421}
+{"id": "ag_news-5833", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 436}
+{"id": "ag_news-5870", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 438}
+{"id": "ag_news-5975", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.05, 0.95, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-5989", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 419}
+{"id": "ag_news-6048", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 429}
+{"id": "ag_news-6060", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.01, 0.99, 0.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-6064", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 407}
+{"id": "ag_news-6141", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.94, 0.06], "input_tokens": 400}
+{"id": "ag_news-6202", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.88, 0.0, 0.12, 0.0], "input_tokens": 424}
+{"id": "ag_news-6210", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.87, 0.0, 0.13, 0.0], "input_tokens": 431}
+{"id": "ag_news-6263", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 407}
+{"id": "ag_news-6293", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.1, 0.0, 0.9, 0.0], "input_tokens": 440}
+{"id": "ag_news-6367", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 450}
+{"id": "ag_news-6388", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.03, 0.97], "input_tokens": 423}
+{"id": "ag_news-6389", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 401}
+{"id": "ag_news-6464", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 427}
+{"id": "ag_news-6507", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-6528", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 409}
+{"id": "ag_news-6685", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 420}
+{"id": "ag_news-6536", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 435}
+{"id": "ag_news-6703", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 414}
+{"id": "ag_news-6711", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.14, 0.0, 0.28, 0.58], "input_tokens": 428}
+{"id": "ag_news-6727", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 410}
+{"id": "ag_news-6733", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-6773", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 409}
+{"id": "ag_news-6789", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.01, 0.0, 0.99, 0.0], "input_tokens": 424}
+{"id": "ag_news-6808", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.12, 0.88], "input_tokens": 411}
+{"id": "ag_news-6881", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 440}
+{"id": "ag_news-6925", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 437}
+{"id": "ag_news-6954", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 414}
+{"id": "ag_news-7032", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 441}
+{"id": "ag_news-7038", "task": "ag_news", "split": "test", "kind": "choice", "gold": 3, "probs": [0.0, 0.0, 0.0, 1.0], "input_tokens": 481}
+{"id": "ag_news-7072", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 411}
+{"id": "ag_news-7077", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 418}
+{"id": "ag_news-7138", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 410}
+{"id": "ag_news-7135", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 432}
+{"id": "ag_news-7162", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 421}
+{"id": "ag_news-7164", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 0.96, 0.04, 0.0], "input_tokens": 428}
+{"id": "ag_news-7169", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-7236", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 435}
+{"id": "ag_news-7171", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 426}
+{"id": "ag_news-7243", "task": "ag_news", "split": "test", "kind": "choice", "gold": 1, "probs": [0.0, 1.0, 0.0, 0.0], "input_tokens": 420}
+{"id": "ag_news-7368", "task": "ag_news", "split": "test", "kind": "choice", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0], "input_tokens": 422}
+{"id": "ag_news-7266", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 0.99, 0.01], "input_tokens": 442}
+{"id": "ag_news-7452", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 417}
+{"id": "ag_news-7488", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0], "input_tokens": 416}
+{"id": "ag_news-7510", "task": "ag_news", "split": "calib", "kind": "choice", "gold": 0, "probs": [0.99, 0.0, 0.01, 0.0], "input_tokens": 434}
+{"id": "ag_news-7564", "task": "ag_news", "split": "test", "kind": "choice", "gold": 2, "probs": [0.3, 0.0, 0.7, 0.0], "input_tokens": 435}
+{"id": "sst5-0", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.35, 0.65, 0.0, 0.0], "input_tokens": 350}
+{"id": "sst5-3", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.38, 0.62, 0.0, 0.0, 0.0], "input_tokens": 347}
+{"id": "sst5-24", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.93, 0.07, 0.0, 0.0, 0.0], "input_tokens": 342}
+{"id": "sst5-8", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.96, 0.04], "input_tokens": 351}
+{"id": "sst5-29", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.8, 0.2], "input_tokens": 339}
+{"id": "sst5-38", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.0, 0.26, 0.74], "input_tokens": 368}
+{"id": "sst5-43", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.87, 0.13, 0.0, 0.0, 0.0], "input_tokens": 350}
+{"id": "sst5-46", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.07, 0.32, 0.17, 0.38, 0.06], "input_tokens": 345}
+{"id": "sst5-47", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.68, 0.32, 0.0, 0.0, 0.0], "input_tokens": 347}
+{"id": "sst5-52", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.01, 0.22, 0.59, 0.18, 0.0], "input_tokens": 341}
+{"id": "sst5-56", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.04, 0.58, 0.23, 0.14, 0.01], "input_tokens": 362}
+{"id": "sst5-55", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.67, 0.33, 0.0, 0.0, 0.0], "input_tokens": 333}
+{"id": "sst5-57", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.96, 0.04, 0.0, 0.0, 0.0], "input_tokens": 374}
+{"id": "sst5-59", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0, 0.0], "input_tokens": 344}
+{"id": "sst5-76", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.05, 0.6, 0.23, 0.12, 0.0], "input_tokens": 347}
+{"id": "sst5-80", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.34, 0.66, 0.0], "input_tokens": 352}
+{"id": "sst5-86", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.14, 0.86, 0.0, 0.0, 0.0], "input_tokens": 354}
+{"id": "sst5-95", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.06, 0.93, 0.01, 0.0, 0.0], "input_tokens": 338}
+{"id": "sst5-101", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.59, 0.41, 0.0, 0.0, 0.0], "input_tokens": 340}
+{"id": "sst5-98", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.43, 0.5700000000000001, 0.0, 0.0, 0.0], "input_tokens": 336}
+{"id": "sst5-107", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.56, 0.44, 0.0], "input_tokens": 327}
+{"id": "sst5-110", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.02, 0.53, 0.44], "input_tokens": 354}
+{"id": "sst5-118", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.07, 0.12, 0.77, 0.03, 0.01], "input_tokens": 334}
+{"id": "sst5-120", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.32, 0.68], "input_tokens": 342}
+{"id": "sst5-116", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.96, 0.03], "input_tokens": 347}
+{"id": "sst5-124", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 344}
+{"id": "sst5-122", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.01, 0.98, 0.01, 0.0, 0.0], "input_tokens": 347}
+{"id": "sst5-121", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.86, 0.14, 0.0, 0.0, 0.0], "input_tokens": 343}
+{"id": "sst5-127", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.01, 0.1, 0.89, 0.0], "input_tokens": 344}
+{"id": "sst5-126", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.99, 0.0], "input_tokens": 350}
+{"id": "sst5-137", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.02, 0.98], "input_tokens": 360}
+{"id": "sst5-129", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.07, 0.93], "input_tokens": 343}
+{"id": "sst5-133", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.0, 0.83, 0.17], "input_tokens": 355}
+{"id": "sst5-140", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 366}
+{"id": "sst5-128", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.37, 0.63], "input_tokens": 355}
+{"id": "sst5-143", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.01, 0.26, 0.65, 0.08, 0.0], "input_tokens": 337}
+{"id": "sst5-144", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.85, 0.14], "input_tokens": 346}
+{"id": "sst5-148", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.0, 0.3, 0.66, 0.04, 0.0], "input_tokens": 332}
+{"id": "sst5-149", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.01, 0.62, 0.37, 0.0, 0.0], "input_tokens": 331}
+{"id": "sst5-158", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.03, 0.85, 0.11, 0.01, 0.0], "input_tokens": 367}
+{"id": "sst5-164", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.0, 0.68, 0.31, 0.01, 0.0], "input_tokens": 337}
+{"id": "sst5-165", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.04, 0.91, 0.05], "input_tokens": 357}
+{"id": "sst5-167", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.99, 0.01, 0.0, 0.0, 0.0], "input_tokens": 349}
+{"id": "sst5-169", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.01, 0.35, 0.63], "input_tokens": 349}
+{"id": "sst5-173", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.94, 0.06, 0.0, 0.0, 0.0], "input_tokens": 349}
+{"id": "sst5-175", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.97, 0.03], "input_tokens": 361}
+{"id": "sst5-176", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.33, 0.67, 0.0, 0.0, 0.0], "input_tokens": 331}
+{"id": "sst5-177", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.4, 0.6], "input_tokens": 331}
+{"id": "sst5-186", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.58, 0.39, 0.02, 0.01, 0.0], "input_tokens": 335}
+{"id": "sst5-188", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.18, 0.8, 0.02, 0.0, 0.0], "input_tokens": 373}
+{"id": "sst5-185", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.9, 0.1, 0.0, 0.0], "input_tokens": 358}
+{"id": "sst5-191", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.35, 0.65], "input_tokens": 341}
+{"id": "sst5-199", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.32, 0.68, 0.0, 0.0, 0.0], "input_tokens": 349}
+{"id": "sst5-192", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.14, 0.86, 0.0], "input_tokens": 352}
+{"id": "sst5-200", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.35, 0.65], "input_tokens": 336}
+{"id": "sst5-207", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.07, 0.87, 0.06], "input_tokens": 348}
+{"id": "sst5-211", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.45, 0.55, 0.0, 0.0, 0.0], "input_tokens": 341}
+{"id": "sst5-210", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.06, 0.65, 0.29, 0.0, 0.0], "input_tokens": 336}
+{"id": "sst5-209", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.0, 0.68, 0.32, 0.0, 0.0], "input_tokens": 357}
+{"id": "sst5-212", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.02, 0.91, 0.07], "input_tokens": 342}
+{"id": "sst5-225", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.12, 0.88], "input_tokens": 369}
+{"id": "sst5-217", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.24, 0.76], "input_tokens": 354}
+{"id": "sst5-239", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.3, 0.68, 0.02], "input_tokens": 340}
+{"id": "sst5-236", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.04, 0.96], "input_tokens": 346}
+{"id": "sst5-246", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.76, 0.24], "input_tokens": 356}
+{"id": "sst5-241", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.62, 0.34, 0.01, 0.03, 0.0], "input_tokens": 334}
+{"id": "sst5-245", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.01, 0.95, 0.04, 0.0, 0.0], "input_tokens": 340}
+{"id": "sst5-249", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.04, 0.96, 0.0, 0.0, 0.0], "input_tokens": 340}
+{"id": "sst5-250", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.05, 0.75, 0.17, 0.03, 0.0], "input_tokens": 337}
+{"id": "sst5-251", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.26, 0.74, 0.0, 0.0, 0.0], "input_tokens": 370}
+{"id": "sst5-253", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.04, 0.9, 0.06, 0.0, 0.0], "input_tokens": 346}
+{"id": "sst5-257", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.57, 0.42, 0.0], "input_tokens": 362}
+{"id": "sst5-267", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.61, 0.39], "input_tokens": 343}
+{"id": "sst5-264", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.01, 0.02, 0.18, 0.5, 0.29], "input_tokens": 346}
+{"id": "sst5-260", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.55, 0.45, 0.0], "input_tokens": 346}
+{"id": "sst5-268", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 335}
+{"id": "sst5-272", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.23, 0.77], "input_tokens": 370}
+{"id": "sst5-280", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.51, 0.49, 0.0, 0.0, 0.0], "input_tokens": 352}
+{"id": "sst5-281", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.36, 0.64], "input_tokens": 343}
+{"id": "sst5-285", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.38, 0.62], "input_tokens": 348}
+{"id": "sst5-289", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.1, 0.9, 0.0], "input_tokens": 339}
+{"id": "sst5-295", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.19, 0.81], "input_tokens": 344}
+{"id": "sst5-292", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.89, 0.07, 0.0, 0.03, 0.01], "input_tokens": 335}
+{"id": "sst5-298", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.23, 0.76, 0.01], "input_tokens": 340}
+{"id": "sst5-300", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.31, 0.69, 0.0, 0.0], "input_tokens": 348}
+{"id": "sst5-299", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.03, 0.97, 0.0], "input_tokens": 342}
+{"id": "sst5-304", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.03, 0.97], "input_tokens": 361}
+{"id": "sst5-306", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.0, 0.6, 0.39, 0.01, 0.0], "input_tokens": 348}
+{"id": "sst5-308", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.04, 0.88, 0.07, 0.01, 0.0], "input_tokens": 337}
+{"id": "sst5-310", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.01, 0.26, 0.67, 0.06, 0.0], "input_tokens": 344}
+{"id": "sst5-309", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 335}
+{"id": "sst5-311", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.17, 0.83, 0.0, 0.0, 0.0], "input_tokens": 365}
+{"id": "sst5-316", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.81, 0.19], "input_tokens": 372}
+{"id": "sst5-319", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.0, 0.31, 0.69], "input_tokens": 367}
+{"id": "sst5-325", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.04, 0.15, 0.47, 0.26, 0.08], "input_tokens": 361}
+{"id": "sst5-330", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.72, 0.28], "input_tokens": 348}
+{"id": "sst5-332", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.01, 0.03, 0.89, 0.07], "input_tokens": 336}
+{"id": "sst5-333", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.99, 0.01, 0.0, 0.0, 0.0], "input_tokens": 358}
+{"id": "sst5-337", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.09, 0.89, 0.02], "input_tokens": 373}
+{"id": "sst5-340", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.02, 0.98], "input_tokens": 352}
+{"id": "sst5-342", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.01, 0.01, 0.28, 0.29, 0.41], "input_tokens": 329}
+{"id": "sst5-344", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.42, 0.58, 0.0, 0.0, 0.0], "input_tokens": 332}
+{"id": "sst5-348", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.05, 0.49, 0.44, 0.02], "input_tokens": 358}
+{"id": "sst5-352", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.1, 0.61, 0.29], "input_tokens": 332}
+{"id": "sst5-360", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.96, 0.04], "input_tokens": 335}
+{"id": "sst5-365", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.49, 0.39, 0.11, 0.01, 0.0], "input_tokens": 332}
+{"id": "sst5-368", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.49, 0.5, 0.0], "input_tokens": 363}
+{"id": "sst5-370", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.61, 0.39, 0.0, 0.0], "input_tokens": 348}
+{"id": "sst5-373", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.03, 0.95, 0.02, 0.0, 0.0], "input_tokens": 343}
+{"id": "sst5-375", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.01, 0.02, 0.02, 0.4, 0.55], "input_tokens": 350}
+{"id": "sst5-384", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.01, 0.47000000000000003, 0.4, 0.12, 0.0], "input_tokens": 361}
+{"id": "sst5-390", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.0, 0.75, 0.25], "input_tokens": 350}
+{"id": "sst5-396", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.42, 0.58], "input_tokens": 363}
+{"id": "sst5-391", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.02, 0.96, 0.02, 0.0, 0.0], "input_tokens": 359}
+{"id": "sst5-398", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.01, 0.97, 0.02, 0.0, 0.0], "input_tokens": 354}
+{"id": "sst5-399", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.55, 0.45], "input_tokens": 353}
+{"id": "sst5-400", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.06, 0.88, 0.06], "input_tokens": 365}
+{"id": "sst5-402", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.23, 0.77, 0.0, 0.0, 0.0], "input_tokens": 348}
+{"id": "sst5-408", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.54, 0.46, 0.0], "input_tokens": 348}
+{"id": "sst5-418", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.2, 0.71, 0.04, 0.04, 0.01], "input_tokens": 343}
+{"id": "sst5-409", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.27, 0.65, 0.04, 0.04, 0.0], "input_tokens": 349}
+{"id": "sst5-414", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.56, 0.44], "input_tokens": 359}
+{"id": "sst5-420", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.01, 0.95, 0.04, 0.0, 0.0], "input_tokens": 347}
+{"id": "sst5-421", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.37, 0.63, 0.0, 0.0, 0.0], "input_tokens": 360}
+{"id": "sst5-425", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.03, 0.23, 0.18, 0.48, 0.08], "input_tokens": 360}
+{"id": "sst5-427", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.0, 0.03, 0.96, 0.01, 0.0], "input_tokens": 358}
+{"id": "sst5-432", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.93, 0.07, 0.0, 0.0], "input_tokens": 332}
+{"id": "sst5-439", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.05, 0.78, 0.17, 0.0, 0.0], "input_tokens": 334}
+{"id": "sst5-435", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.95, 0.05, 0.0, 0.0, 0.0], "input_tokens": 336}
+{"id": "sst5-446", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.19, 0.73, 0.05, 0.03, 0.0], "input_tokens": 340}
+{"id": "sst5-449", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.3, 0.7, 0.0, 0.0, 0.0], "input_tokens": 352}
+{"id": "sst5-451", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.29, 0.71, 0.0, 0.0, 0.0], "input_tokens": 356}
+{"id": "sst5-452", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.06, 0.94], "input_tokens": 342}
+{"id": "sst5-456", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.82, 0.18], "input_tokens": 338}
+{"id": "sst5-457", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.81, 0.19], "input_tokens": 339}
+{"id": "sst5-458", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.02, 0.26, 0.71, 0.01], "input_tokens": 339}
+{"id": "sst5-464", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.03, 0.95, 0.02], "input_tokens": 378}
+{"id": "sst5-472", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 360}
+{"id": "sst5-475", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.03, 0.73, 0.24, 0.0, 0.0], "input_tokens": 343}
+{"id": "sst5-477", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.72, 0.28], "input_tokens": 339}
+{"id": "sst5-490", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.23, 0.77], "input_tokens": 362}
+{"id": "sst5-492", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 1.0, 0.0, 0.0], "input_tokens": 361}
+{"id": "sst5-499", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.03, 0.97, 0.0, 0.0], "input_tokens": 343}
+{"id": "sst5-507", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.84, 0.16, 0.0, 0.0, 0.0], "input_tokens": 356}
+{"id": "sst5-515", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.6, 0.4, 0.0], "input_tokens": 346}
+{"id": "sst5-508", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.0, 0.98, 0.02, 0.0, 0.0], "input_tokens": 350}
+{"id": "sst5-516", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.8, 0.2], "input_tokens": 361}
+{"id": "sst5-518", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.03, 0.77, 0.2, 0.0], "input_tokens": 347}
+{"id": "sst5-530", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.01, 0.98, 0.01], "input_tokens": 341}
+{"id": "sst5-531", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.71, 0.29], "input_tokens": 355}
+{"id": "sst5-534", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.08, 0.77, 0.14, 0.01, 0.0], "input_tokens": 340}
+{"id": "sst5-538", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.03, 0.93, 0.04, 0.0, 0.0], "input_tokens": 374}
+{"id": "sst5-552", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.07, 0.78, 0.15], "input_tokens": 346}
+{"id": "sst5-542", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.0, 0.63, 0.37, 0.0, 0.0], "input_tokens": 351}
+{"id": "sst5-569", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.09, 0.84, 0.06], "input_tokens": 368}
+{"id": "sst5-567", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.61, 0.39], "input_tokens": 360}
+{"id": "sst5-570", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.67, 0.33], "input_tokens": 358}
+{"id": "sst5-572", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.67, 0.33, 0.0, 0.0, 0.0], "input_tokens": 363}
+{"id": "sst5-577", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.91, 0.09], "input_tokens": 362}
+{"id": "sst5-582", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.01, 0.34, 0.58, 0.07, 0.0], "input_tokens": 331}
+{"id": "sst5-588", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.96, 0.04, 0.0, 0.0, 0.0], "input_tokens": 356}
+{"id": "sst5-589", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.87, 0.08, 0.0, 0.03, 0.02], "input_tokens": 353}
+{"id": "sst5-593", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 353}
+{"id": "sst5-599", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.93, 0.07, 0.0, 0.0, 0.0], "input_tokens": 366}
+{"id": "sst5-610", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.15, 0.85], "input_tokens": 335}
+{"id": "sst5-613", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.05, 0.89, 0.06], "input_tokens": 370}
+{"id": "sst5-614", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.53, 0.47], "input_tokens": 358}
+{"id": "sst5-620", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.0, 0.78, 0.22, 0.0, 0.0], "input_tokens": 376}
+{"id": "sst5-631", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.64, 0.36, 0.0, 0.0, 0.0], "input_tokens": 349}
+{"id": "sst5-638", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.75, 0.25, 0.0, 0.0, 0.0], "input_tokens": 340}
+{"id": "sst5-634", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.01, 0.24, 0.75, 0.0], "input_tokens": 339}
+{"id": "sst5-642", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.49, 0.51], "input_tokens": 365}
+{"id": "sst5-643", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.15, 0.81, 0.04, 0.0, 0.0], "input_tokens": 358}
+{"id": "sst5-647", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.59, 0.41], "input_tokens": 369}
+{"id": "sst5-652", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.18, 0.82, 0.0, 0.0, 0.0], "input_tokens": 353}
+{"id": "sst5-663", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.04, 0.96], "input_tokens": 373}
+{"id": "sst5-666", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.81, 0.19, 0.0], "input_tokens": 363}
+{"id": "sst5-675", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.12, 0.37, 0.15, 0.32, 0.04], "input_tokens": 341}
+{"id": "sst5-667", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.06, 0.74, 0.2, 0.0], "input_tokens": 344}
+{"id": "sst5-680", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.3, 0.68, 0.02, 0.0, 0.0], "input_tokens": 334}
+{"id": "sst5-691", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.53, 0.47, 0.0, 0.0, 0.0], "input_tokens": 336}
+{"id": "sst5-694", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.01, 0.96, 0.03, 0.0, 0.0], "input_tokens": 363}
+{"id": "sst5-696", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.99, 0.01, 0.0, 0.0, 0.0], "input_tokens": 335}
+{"id": "sst5-700", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.02, 0.12, 0.83, 0.03], "input_tokens": 360}
+{"id": "sst5-701", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.36, 0.64], "input_tokens": 356}
+{"id": "sst5-704", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.97, 0.03, 0.0, 0.0, 0.0], "input_tokens": 343}
+{"id": "sst5-703", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.01, 0.97, 0.02, 0.0, 0.0], "input_tokens": 349}
+{"id": "sst5-705", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.11, 0.89], "input_tokens": 359}
+{"id": "sst5-710", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.84, 0.16, 0.0, 0.0, 0.0], "input_tokens": 333}
+{"id": "sst5-711", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.01, 0.56, 0.43], "input_tokens": 334}
+{"id": "sst5-715", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.26, 0.74, 0.0], "input_tokens": 351}
+{"id": "sst5-717", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.25, 0.75], "input_tokens": 334}
+{"id": "sst5-724", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.84, 0.16], "input_tokens": 357}
+{"id": "sst5-730", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.16, 0.84], "input_tokens": 346}
+{"id": "sst5-728", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.02, 0.77, 0.21, 0.0], "input_tokens": 348}
+{"id": "sst5-727", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.01, 0.25, 0.66, 0.08, 0.0], "input_tokens": 358}
+{"id": "sst5-734", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.16, 0.84, 0.0, 0.0, 0.0], "input_tokens": 361}
+{"id": "sst5-740", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.47, 0.51, 0.01, 0.01, 0.0], "input_tokens": 337}
+{"id": "sst5-744", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.02, 0.45, 0.29, 0.23, 0.01], "input_tokens": 358}
+{"id": "sst5-745", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.02, 0.18, 0.61, 0.18, 0.01], "input_tokens": 351}
+{"id": "sst5-746", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.04, 0.96], "input_tokens": 360}
+{"id": "sst5-749", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.32, 0.68], "input_tokens": 357}
+{"id": "sst5-748", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.99, 0.01, 0.0, 0.0, 0.0], "input_tokens": 328}
+{"id": "sst5-751", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.28, 0.66, 0.06], "input_tokens": 345}
+{"id": "sst5-756", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.02, 0.73, 0.25, 0.0, 0.0], "input_tokens": 335}
+{"id": "sst5-762", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.54, 0.46, 0.0, 0.0, 0.0], "input_tokens": 366}
+{"id": "sst5-770", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.06, 0.72, 0.11, 0.11, 0.0], "input_tokens": 333}
+{"id": "sst5-790", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.7, 0.3], "input_tokens": 346}
+{"id": "sst5-779", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.01, 0.62, 0.37, 0.0], "input_tokens": 342}
+{"id": "sst5-803", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.09, 0.56, 0.19, 0.15, 0.01], "input_tokens": 349}
+{"id": "sst5-795", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.94, 0.06, 0.0], "input_tokens": 329}
+{"id": "sst5-800", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.14, 0.85, 0.01, 0.0, 0.0], "input_tokens": 347}
+{"id": "sst5-807", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.96, 0.04, 0.0], "input_tokens": 366}
+{"id": "sst5-808", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.8, 0.2, 0.0], "input_tokens": 356}
+{"id": "sst5-810", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.11, 0.79, 0.1, 0.0, 0.0], "input_tokens": 363}
+{"id": "sst5-812", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.1, 0.82, 0.05, 0.03, 0.0], "input_tokens": 344}
+{"id": "sst5-814", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.56, 0.44, 0.0], "input_tokens": 347}
+{"id": "sst5-815", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.01, 0.64, 0.34], "input_tokens": 330}
+{"id": "sst5-820", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.02, 0.07, 0.07, 0.74, 0.1], "input_tokens": 341}
+{"id": "sst5-817", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.94, 0.06, 0.0, 0.0, 0.0], "input_tokens": 330}
+{"id": "sst5-822", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.53, 0.47], "input_tokens": 350}
+{"id": "sst5-827", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.37, 0.63, 0.0], "input_tokens": 352}
+{"id": "sst5-850", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.08, 0.6, 0.32, 0.0], "input_tokens": 342}
+{"id": "sst5-853", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.17, 0.82, 0.01, 0.0, 0.0], "input_tokens": 354}
+{"id": "sst5-856", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.24, 0.76], "input_tokens": 357}
+{"id": "sst5-858", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0, 0.0], "input_tokens": 356}
+{"id": "sst5-861", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.9, 0.1, 0.0], "input_tokens": 338}
+{"id": "sst5-862", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.55, 0.45, 0.0], "input_tokens": 344}
+{"id": "sst5-863", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.54, 0.46, 0.0], "input_tokens": 353}
+{"id": "sst5-869", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.02, 0.93, 0.05, 0.0, 0.0], "input_tokens": 363}
+{"id": "sst5-875", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.21, 0.79], "input_tokens": 342}
+{"id": "sst5-881", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.03, 0.97, 0.0, 0.0, 0.0], "input_tokens": 338}
+{"id": "sst5-877", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.39, 0.61, 0.0], "input_tokens": 351}
+{"id": "sst5-883", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.01, 0.44, 0.55], "input_tokens": 343}
+{"id": "sst5-888", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.01, 0.91, 0.08, 0.0, 0.0], "input_tokens": 377}
+{"id": "sst5-901", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.23, 0.77, 0.0, 0.0, 0.0], "input_tokens": 341}
+{"id": "sst5-902", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.0, 0.35, 0.65, 0.0, 0.0], "input_tokens": 367}
+{"id": "sst5-905", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.47, 0.43, 0.09, 0.01, 0.0], "input_tokens": 329}
+{"id": "sst5-907", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.0, 0.65, 0.35], "input_tokens": 346}
+{"id": "sst5-912", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.97, 0.02], "input_tokens": 352}
+{"id": "sst5-916", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.01, 0.99], "input_tokens": 335}
+{"id": "sst5-915", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.11, 0.8, 0.09, 0.0], "input_tokens": 374}
+{"id": "sst5-926", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.13, 0.47, 0.4, 0.0], "input_tokens": 339}
+{"id": "sst5-919", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.04, 0.95, 0.01, 0.0, 0.0], "input_tokens": 348}
+{"id": "sst5-928", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [1.0, 0.0, 0.0, 0.0, 0.0], "input_tokens": 340}
+{"id": "sst5-934", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.52, 0.48], "input_tokens": 354}
+{"id": "sst5-935", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.23, 0.74, 0.03], "input_tokens": 344}
+{"id": "sst5-938", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.96, 0.04, 0.0], "input_tokens": 347}
+{"id": "sst5-945", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.01, 0.13, 0.82, 0.04, 0.0], "input_tokens": 333}
+{"id": "sst5-948", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.9, 0.1, 0.0, 0.0, 0.0], "input_tokens": 345}
+{"id": "sst5-953", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.01, 0.45, 0.54, 0.0, 0.0], "input_tokens": 358}
+{"id": "sst5-957", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.17, 0.82, 0.01, 0.0, 0.0], "input_tokens": 370}
+{"id": "sst5-954", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.0, 1.0], "input_tokens": 359}
+{"id": "sst5-962", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.03, 0.88, 0.09, 0.0, 0.0], "input_tokens": 334}
+{"id": "sst5-967", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.95, 0.05, 0.0, 0.0, 0.0], "input_tokens": 345}
+{"id": "sst5-969", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.16, 0.71, 0.07, 0.06, 0.0], "input_tokens": 343}
+{"id": "sst5-971", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.0, 0.49, 0.51, 0.0, 0.0], "input_tokens": 370}
+{"id": "sst5-970", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.86, 0.14, 0.0, 0.0, 0.0], "input_tokens": 352}
+{"id": "sst5-980", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.15, 0.83, 0.01, 0.01, 0.0], "input_tokens": 331}
+{"id": "sst5-983", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.6900000000000001, 0.31, 0.0], "input_tokens": 370}
+{"id": "sst5-981", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.76, 0.24], "input_tokens": 362}
+{"id": "sst5-979", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.68, 0.32], "input_tokens": 352}
+{"id": "sst5-986", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.74, 0.26, 0.0, 0.0, 0.0], "input_tokens": 331}
+{"id": "sst5-988", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.95, 0.05, 0.0, 0.0, 0.0], "input_tokens": 345}
+{"id": "sst5-990", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.02, 0.03, 0.72, 0.23], "input_tokens": 354}
+{"id": "sst5-993", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.03, 0.96, 0.01], "input_tokens": 351}
+{"id": "sst5-999", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.61, 0.39], "input_tokens": 346}
+{"id": "sst5-997", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.56, 0.44], "input_tokens": 348}
+{"id": "sst5-1001", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.22, 0.78, 0.0, 0.0, 0.0], "input_tokens": 351}
+{"id": "sst5-1009", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.05, 0.16, 0.67, 0.1, 0.02], "input_tokens": 331}
+{"id": "sst5-1011", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.43, 0.48, 0.09, 0.0, 0.0], "input_tokens": 351}
+{"id": "sst5-1013", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.12, 0.87, 0.01], "input_tokens": 346}
+{"id": "sst5-1017", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.04, 0.47, 0.39, 0.09, 0.01], "input_tokens": 361}
+{"id": "sst5-1016", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.01, 0.53, 0.46, 0.0, 0.0], "input_tokens": 377}
+{"id": "sst5-1026", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.01, 0.98, 0.01, 0.0, 0.0], "input_tokens": 333}
+{"id": "sst5-1027", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.05, 0.92, 0.03], "input_tokens": 335}
+{"id": "sst5-1029", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.01, 0.21, 0.75, 0.03], "input_tokens": 354}
+{"id": "sst5-1035", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.01, 0.95, 0.04, 0.0, 0.0], "input_tokens": 352}
+{"id": "sst5-1039", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.02, 0.91, 0.07, 0.0], "input_tokens": 364}
+{"id": "sst5-1040", "task": "sst5", "split": "test", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.56, 0.44], "input_tokens": 351}
+{"id": "sst5-1045", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.24, 0.76, 0.0, 0.0, 0.0], "input_tokens": 327}
+{"id": "sst5-1048", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.88, 0.12], "input_tokens": 347}
+{"id": "sst5-1055", "task": "sst5", "split": "calib", "kind": "score", "gold": 4, "probs": [0.0, 0.0, 0.0, 0.05, 0.95], "input_tokens": 350}
+{"id": "sst5-1057", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.03, 0.34, 0.61, 0.02], "input_tokens": 354}
+{"id": "sst5-1058", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.64, 0.36], "input_tokens": 362}
+{"id": "sst5-1060", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.82, 0.18], "input_tokens": 354}
+{"id": "sst5-1071", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [1.0, 0.0, 0.0, 0.0, 0.0], "input_tokens": 347}
+{"id": "sst5-1061", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.22, 0.57, 0.18, 0.03, 0.0], "input_tokens": 341}
+{"id": "sst5-1072", "task": "sst5", "split": "calib", "kind": "score", "gold": 0, "probs": [0.9, 0.1, 0.0, 0.0, 0.0], "input_tokens": 342}
+{"id": "sst5-1075", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.91, 0.09, 0.0], "input_tokens": 339}
+{"id": "sst5-1078", "task": "sst5", "split": "calib", "kind": "score", "gold": 1, "probs": [0.0, 0.3, 0.7, 0.0, 0.0], "input_tokens": 353}
+{"id": "sst5-1081", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.03, 0.96, 0.01, 0.0, 0.0], "input_tokens": 358}
+{"id": "sst5-1086", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.09, 0.86, 0.05], "input_tokens": 351}
+{"id": "sst5-1088", "task": "sst5", "split": "test", "kind": "score", "gold": 2, "probs": [0.02, 0.21, 0.39, 0.34, 0.04], "input_tokens": 348}
+{"id": "sst5-1090", "task": "sst5", "split": "test", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.01, 0.86, 0.13], "input_tokens": 336}
+{"id": "sst5-1089", "task": "sst5", "split": "calib", "kind": "score", "gold": 2, "probs": [0.0, 0.0, 0.01, 0.84, 0.15], "input_tokens": 339}
+{"id": "sst5-1092", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.03, 0.66, 0.31, 0.0], "input_tokens": 342}
+{"id": "sst5-1094", "task": "sst5", "split": "test", "kind": "score", "gold": 1, "probs": [0.03, 0.96, 0.01, 0.0, 0.0], "input_tokens": 382}
+{"id": "sst5-1097", "task": "sst5", "split": "calib", "kind": "score", "gold": 3, "probs": [0.0, 0.0, 0.0, 0.04, 0.96], "input_tokens": 335}
+{"id": "sst5-1098", "task": "sst5", "split": "test", "kind": "score", "gold": 0, "probs": [0.91, 0.09, 0.0, 0.0, 0.0], "input_tokens": 340}
