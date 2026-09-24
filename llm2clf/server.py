@@ -9,12 +9,12 @@ from concurrent.futures import ThreadPoolExecutor
 import uvicorn
 from fastapi import FastAPI, HTTPException, Request
 
-from jevlocal.calibration import Calibration
-from jevlocal.engine import Engine
+from llm2clf.calibration import Calibration
+from llm2clf.engine import Engine
 
 
 def build_app(engine: Engine, workers: int = 64) -> FastAPI:
-    app = FastAPI(title="jevlocal")
+    app = FastAPI(title="llm2clf")
     pool = ThreadPoolExecutor(workers)
 
     @app.get("/v1/models")
@@ -24,7 +24,7 @@ def build_app(engine: Engine, workers: int = 64) -> FastAPI:
     @app.post("/v1/systemone")
     async def systemone(request: Request):
         body = await request.json()
-        options = body.get("jevlocal") or {}
+        options = body.get("llm2clf") or {}
         if not isinstance(body.get("questions"), dict) or not body["questions"]:
             raise HTTPException(422, "questions must be a non-empty map")
         try:
@@ -51,17 +51,17 @@ def main():
     args = parser.parse_args()
 
     if args.backend == "hf":
-        from jevlocal.backends import HFBackend
+        from llm2clf.backends import HFBackend
 
         backend = HFBackend(args.model_id)
     elif args.backend == "bedrock":
-        from jevlocal.backends import BedrockBackend
+        from llm2clf.backends import BedrockBackend
 
         backend = BedrockBackend(args.model_id, region=args.region)
     else:
         from transformers import AutoTokenizer
 
-        from jevlocal.backends import SGLangBackend
+        from llm2clf.backends import SGLangBackend
 
         backend = SGLangBackend(AutoTokenizer.from_pretrained(args.model_id), args.sglang_url)
     engine = Engine(backend, args.name or args.model_id, Calibration.load(args.calibration), args.permutations)

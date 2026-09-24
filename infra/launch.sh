@@ -5,8 +5,8 @@ set -euo pipefail
 REGION=${REGION:-us-west-2}
 TYPE=${TYPE:-p5.4xlarge}
 MAX_MINUTES=${MAX_MINUTES:-240}
-NAME=jevlocal-bench
-KEY=jevlocal
+NAME=llm2clf-bench
+KEY=llm2clf
 KEY_FILE=~/.ssh/$KEY.pem
 AMI=$(aws ec2 describe-images --region "$REGION" --owners amazon \
   --filters "Name=name,Values=Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 24.04)*" \
@@ -21,7 +21,7 @@ VPC=$(aws ec2 describe-vpcs --region "$REGION" --filters Name=isDefault,Values=t
 SG=$(aws ec2 describe-security-groups --region "$REGION" --filters Name=group-name,Values=$NAME Name=vpc-id,Values="$VPC" \
   --query 'SecurityGroups[0].GroupId' --output text)
 if [ "$SG" = "None" ]; then
-  SG=$(aws ec2 create-security-group --region "$REGION" --group-name $NAME --description "jevlocal benchmark SSH" --vpc-id "$VPC" --query GroupId --output text)
+  SG=$(aws ec2 create-security-group --region "$REGION" --group-name $NAME --description "llm2clf benchmark SSH" --vpc-id "$VPC" --query GroupId --output text)
 fi
 MY_IP=$(curl -s https://checkip.amazonaws.com)
 aws ec2 authorize-security-group-ingress --region "$REGION" --group-id "$SG" --protocol tcp --port 22 --cidr "$MY_IP/32" >/dev/null 2>&1 || true
@@ -32,10 +32,10 @@ for SUBNET in $(aws ec2 describe-subnets --region "$REGION" --filters Name=vpc-i
       --security-group-ids "$SG" --subnet-id "$SUBNET" --instance-initiated-shutdown-behavior terminate \
       --block-device-mappings 'DeviceName=/dev/sda1,Ebs={VolumeSize=400,VolumeType=gp3,Throughput=1000,Iops=6000,DeleteOnTermination=true}' \
       --user-data "$USER_DATA" --tag-specifications "ResourceType=instance,Tags=[{Key=Name,Value=$NAME}]" \
-      --query 'Instances[0].InstanceId' --output text 2>/tmp/jevlocal-launch.err); then
+      --query 'Instances[0].InstanceId' --output text 2>/tmp/llm2clf-launch.err); then
     break
   fi
-  echo "no capacity in $SUBNET: $(tail -1 /tmp/jevlocal-launch.err)" >&2
+  echo "no capacity in $SUBNET: $(tail -1 /tmp/llm2clf-launch.err)" >&2
   ID=""
 done
 [ -n "$ID" ] || { echo "launch failed in every zone" >&2; exit 1; }

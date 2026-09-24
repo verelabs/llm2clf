@@ -36,7 +36,7 @@ def main():
     client = httpx.Client(timeout=600, limits=httpx.Limits(max_connections=args.concurrency))
     results = []
     for perms in args.permutations:
-        requests = [jev_style_request(p) | {"jevlocal": {"permutations": perms}} for p in passages]
+        requests = [jev_style_request(p) | {"llm2clf": {"permutations": perms}} for p in passages]
         client.post(f"{args.url}/v1/systemone", json=requests[0]).raise_for_status()
         started = time.time()
         with ThreadPoolExecutor(args.concurrency) as pool:

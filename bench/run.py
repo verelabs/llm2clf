@@ -1,4 +1,4 @@
-"""Runs every benchmark item against Jev or a jevlocal server and appends per-item probabilities to results/<name>.jsonl."""
+"""Runs every benchmark item against Jev or a llm2clf server and appends per-item probabilities to results/<name>.jsonl."""
 
 from __future__ import annotations
 
@@ -44,7 +44,7 @@ def local_caller(url: str, permutations: int):
     client = httpx.Client(timeout=600)
 
     def call(item):
-        body = item["request"] | {"model": "local", "jevlocal": {"raw": True, "calibrate": False, "permutations": permutations}}
+        body = item["request"] | {"model": "local", "llm2clf": {"raw": True, "calibrate": False, "permutations": permutations}}
         response = client.post(f"{url.rstrip('/')}/v1/systemone", json=body)
         response.raise_for_status()
         data = response.json()
@@ -56,8 +56,8 @@ def local_caller(url: str, permutations: int):
 
 
 def bedrock_caller(model_id: str, region: str, permutations: int):
-    from jevlocal.backends import BedrockBackend
-    from jevlocal.engine import Engine
+    from llm2clf.backends import BedrockBackend
+    from llm2clf.engine import Engine
 
     engine = Engine(BedrockBackend(model_id, region=region), model_id)
 
@@ -74,7 +74,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--name", required=True)
     parser.add_argument("--jev", help="Jev model version, e.g. jev-1.13.0")
-    parser.add_argument("--url", help="jevlocal server URL")
+    parser.add_argument("--url", help="llm2clf server URL")
     parser.add_argument("--bedrock", help="Bedrock model id, run in-process")
     parser.add_argument("--region", default="us-west-2")
     parser.add_argument("--permutations", type=int, default=4)

@@ -1,5 +1,5 @@
 [project]
-name = "jevlocal"
+name = "llm2clf"
 version = "0.1.0"
 description = "Jev-compatible typed judgments (Noul, Choice, Score) from any open-weights LLM, read from next-token probabilities"
 readme = "README.md"
@@ -19,7 +19,7 @@ dependencies = [
 hf = ["torch>=2.5", "accelerate>=1.0"]
 
 [project.scripts]
-jevlocal-serve = "jevlocal.server:main"
+llm2clf-serve = "llm2clf.server:main"
 
 [dependency-groups]
 dev = [

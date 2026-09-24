@@ -9,7 +9,7 @@ from pathlib import Path
 
 import numpy as np
 
-from jevlocal.calibration import apply_temperature, fit_temperature
+from llm2clf.calibration import apply_temperature, fit_temperature
 
 RESULTS = Path(__file__).parent / "results"
 

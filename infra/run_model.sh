@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Runs on the GPU box: serves one model with SGLang, puts jevlocal in front, runs the accuracy and throughput benchmarks.
+# Runs on the GPU box: serves one model with SGLang, puts llm2clf in front, runs the accuracy and throughput benchmarks.
 set -euo pipefail
 MODEL=$1
 NAME=$2
@@ -18,8 +18,8 @@ until curl -sf 127.0.0.1:30000/health >/dev/null; do
   sleep 5
 done
 
-pkill -f "jevlocal-serve" || true
-HF_HUB_OFFLINE=1 nohup uv run jevlocal-serve --model-id "$MODEL" --name "$NAME" --port 8000 > ~/jevlocal-$NAME.log 2>&1 &
+pkill -f "llm2clf-serve" || true
+HF_HUB_OFFLINE=1 nohup uv run llm2clf-serve --model-id "$MODEL" --name "$NAME" --port 8000 > ~/llm2clf-$NAME.log 2>&1 &
 until curl -sf 127.0.0.1:8000/v1/models >/dev/null; do sleep 2; done
 
 uv run python -m bench.run --name "$NAME" --url http://127.0.0.1:8000 --workers 32

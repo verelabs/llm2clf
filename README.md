@@ -1,4 +1,4 @@
-# jevlocal
+# llm2clf
 
 Turn any open-weights LLM into a calibrated classifier. Ask yes/no, multiple-choice or rating questions and get back a label with probabilities, read straight from the model's next-token distribution. Nothing is generated, so output tokens cost nothing.
 
@@ -20,14 +20,14 @@ Any open model on Amazon Bedrock:
 
 ```bash
 uv sync
-uv run jevlocal-serve --backend bedrock --model-id qwen.qwen3-235b-a22b-2507-v1:0
+uv run llm2clf-serve --backend bedrock --model-id qwen.qwen3-235b-a22b-2507-v1:0
 ```
 
 A local model for development:
 
 ```bash
 uv sync --extra hf
-uv run jevlocal-serve --backend hf --model-id Qwen/Qwen3-0.6B
+uv run llm2clf-serve --backend hf --model-id Qwen/Qwen3-0.6B
 ```
 
 There is also an SGLang backend for self-hosting on a GPU (`--sglang-url`); it has not been benchmarked yet.

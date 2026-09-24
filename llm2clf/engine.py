@@ -6,9 +6,9 @@ from typing import Any
 
 import numpy as np
 
-from jevlocal.backends import Backend
-from jevlocal.calibration import Calibration, log_softmax
-from jevlocal.prompt import NOUL_LABELS, SYSTEM, Question, option_labels, orders_for, render_question, render_state
+from llm2clf.backends import Backend
+from llm2clf.calibration import Calibration, log_softmax
+from llm2clf.prompt import NOUL_LABELS, SYSTEM, Question, option_labels, orders_for, render_question, render_state
 
 
 def confidence(probs: np.ndarray) -> float:

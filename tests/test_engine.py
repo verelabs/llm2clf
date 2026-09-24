@@ -1,7 +1,7 @@
 import numpy as np
-from jevlocal.calibration import apply_temperature, fit_temperature
-from jevlocal.engine import Engine
-from jevlocal.prompt import Question, cyclic_orders, option_labels
+from llm2clf.calibration import apply_temperature, fit_temperature
+from llm2clf.engine import Engine
+from llm2clf.prompt import Question, cyclic_orders, option_labels
 
 class FakeBackend:
     """Puts all probability on whichever option is labelled on the prompt line that mentions `target_text`."""
