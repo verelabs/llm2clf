@@ -1,64 +1,82 @@
 # jevlocal
 
-Jev-compatible typed judgments (Noul, Choice, Score) from any open-weights LLM. It never generates text: each question is one prefill, and the answer is read from the next-token probabilities of the answer labels, so output tokens are free.
+Turn any open-weights LLM into a calibrated classifier. Ask yes/no, multiple-choice or rating questions and get back a label with probabilities, read straight from the model's next-token distribution. Nothing is generated, so output tokens cost nothing.
+
+The API matches TypeSafe's `/v1/systemone` (Noul, Choice, Score), so existing clients work by changing the URL.
+
+Write-up: [Turning open LLMs into calibrated classifiers](https://enclave.md/d/qcC763bnAVdDWEea)
 
 ## How it works
 
-- **Same API as Jev.** `POST /v1/systemone` takes and returns the same shapes as `api.typesafe.ai`, so existing Jev clients work by changing the URL.
-- **Readout.** Options are shown as `A.`, `B.`, ... (levels as `0.`, `1.`, ...; yes/no as `Yes`/`No`), and the probability of each label token is read at the first answer position. Spellings (`Yes`, ` yes`, `YES`) are summed.
-- **Shared state.** The state comes first in every prompt, so SGLang's radix cache computes it once for all questions about it.
-- **L0 debiasing, no labels.** Choice options are shown in up to 4 cyclic orders and yes/no in both phrasings; log-probabilities are averaged per option, which removes position bias (Zheng et al. 2024).
-- **L1 calibration, with labels.** A temperature per question kind, fitted on a labelled set and loaded with `--calibration`.
-- Reasoning models are handled: thinking is disabled for Qwen and Gemma, and gpt-oss is pointed at its final channel.
+- Options are shown as `A.`, `B.`, ... (levels as `0.`, `1.`, ...; yes/no as `Yes`/`No`), and the probability of each label is read at the first answer token.
+- **Debiasing, no labels needed:** options are shown in up to 4 orders and averaged per option, which cancels position bias.
+- **Calibration, with labels:** one temperature per question type, fitted on a labelled set and loaded with `--calibration`.
 
-Calibration and permutation code is ported from [AnyJev](https://github.com/nokia-applied-research/AnyJev) (Apache-2.0). [openjev-sglang](https://github.com/ekzhang/openjev-sglang) has the same API idea but no license, so none of its code is used.
+Debiasing and calibration code is ported from [AnyJev](https://github.com/nokia-applied-research/AnyJev) (Apache-2.0).
 
 ## Run
 
-```bash
-uv sync --extra hf
-uv run jevlocal-serve --backend hf --model-id Qwen/Qwen3-0.6B --port 8000
-```
-
-Any open model on Amazon Bedrock (DeepSeek, Kimi, GLM, Qwen, Mistral, gpt-oss) works with no GPU, using its top-20 logprobs:
+Any open model on Amazon Bedrock:
 
 ```bash
+uv sync
 uv run jevlocal-serve --backend bedrock --model-id qwen.qwen3-235b-a22b-2507-v1:0
 ```
 
-On a GPU box, start SGLang and point jevlocal at it (see `infra/run_model.sh`):
+A local model for development:
 
 ```bash
-uv run jevlocal-serve --model-id google/gemma-4-31B-it --sglang-url http://127.0.0.1:30000
+uv sync --extra hf
+uv run jevlocal-serve --backend hf --model-id Qwen/Qwen3-0.6B
 ```
 
-Extra request field, ignored by Jev: `"jevlocal": {"permutations": 1, "calibrate": false, "raw": true}`.
+There is also an SGLang backend for self-hosting on a GPU (`--sglang-url`); it has not been benchmarked yet.
 
-## Benchmark
+## Results
 
-Four gold-labelled tasks, 300 items each (half calibration, half test): BoolQ (noul), MNLI and AG News (choice), SST-5 (score).
+Six open models on Bedrock against Jev as a purpose-built classifier baseline. Four public tasks: BoolQ (yes/no), MNLI and AG News (choice), SST-5 (5-level rating). 150 test items each; gaps under about 4 points are within noise.
+
+Accuracy, no labels used:
+
+| Model | BoolQ | MNLI | AG News | SST-5 | Mean |
+|---|---|---|---|---|---|
+| Kimi K2.5 | 94.0% | 89.3% | 88.7% | 57.3% | 82.3% |
+| Qwen3-235B | 94.0% | 86.7% | 89.3% | 57.3% | 81.8% |
+| GLM-5 | 91.3% | 82.0% | 90.0% | 60.7% | 81.0% |
+| Jev (baseline) | 94.0% | 79.3% | 90.0% | 59.3% | 80.7% |
+| Mistral Large 3 | 88.7% | 85.3% | 89.3% | 56.7% | 80.0% |
+| DeepSeek V3.2 | 90.0% | 79.3% | 90.7% | 53.3% | 78.3% |
+| gpt-oss-120b | 92.7% | 76.7% | 87.3% | 56.7% | 78.3% |
+
+Calibration error (ECE, lower is better), before / after fitting a temperature on 150 labels:
+
+| Model | BoolQ | MNLI | AG News | SST-5 |
+|---|---|---|---|---|
+| Jev (baseline) | 0.031 / 0.017 | 0.090 / 0.108 | 0.080 / 0.089 | 0.167 / 0.134 |
+| Qwen3-235B | 0.063 / 0.009 | 0.103 / 0.029 | 0.088 / 0.067 | 0.348 / 0.060 |
+| Kimi K2.5 | 0.049 / 0.027 | 0.078 / 0.045 | 0.096 / 0.060 | 0.275 / 0.072 |
+| GLM-5 | 0.071 / 0.037 | 0.135 / 0.068 | 0.089 / 0.037 | 0.299 / 0.054 |
+| Mistral Large 3 | 0.113 / 0.052 | 0.140 / 0.047 | 0.107 / 0.025 | 0.394 / 0.053 |
+| DeepSeek V3.2 | 0.084 / 0.042 | 0.112 / 0.062 | 0.089 / 0.071 | 0.359 / 0.103 |
+| gpt-oss-120b | 0.073 / 0.009 | 0.230 / 0.122 | 0.121 / 0.031 | 0.433 / 0.036 |
+
+Cost:
+
+| Model | $ per 1M input tokens | $ per 1,000 questions |
+|---|---|---|
+| Jev (baseline) | $0.042 | $0.017 |
+| gpt-oss-120b | $0.15 | $0.094 |
+| Qwen3-235B | $0.22 | $0.108 |
+| Mistral Large 3 | $0.50 | $0.238 |
+| DeepSeek V3.2 | $0.62 | $0.289 |
+| Kimi K2.5 | $0.60 | $0.291 |
+| GLM-5 | $1.00 | $0.471 |
+
+## Reproduce
 
 ```bash
-uv run python -m bench.run --name jev-1.13.0 --jev jev-1.13.0
-uv run python -m bench.run --name gemma-4-31b --url http://127.0.0.1:8000
-uv run python -m bench.throughput --url http://127.0.0.1:8000
-uv run python -m bench.report
+uv run python -m bench.run --name qwen3-235b --bedrock qwen.qwen3-235b-a22b-2507-v1:0
+uv run python -m bench.summary
 ```
 
-`bench.summary` prints the comparison table; the latest run is in [bench/RESULTS.md](bench/RESULTS.md).
-
-Levels in the report: `raw` is one prompt in the listed order, `L0` adds permutation debiasing, `L1` adds a temperature fitted on the calibration split. Jev's own answers are `served`.
-
-## AWS
-
-`infra/launch.sh` starts one `p5.4xlarge` (1x H100 80GB) that terminates itself after 4 hours, with SSH open only to the caller's IP. `infra/setup.sh` and `infra/run_model.sh` run on the box.
-
-## Results so far (2026-09-24)
-
-Write-up: [Can an open model be Jev? We built a clone and measured it](https://enclave.md/d/qcC763bnAVdDWEea) (source in [docs/blog.md](docs/blog.md)).
-
-Six open models on Bedrock against `jev-1.13.0`, 150 test items per task:
-
-- Accuracy: Kimi K2.5 (82.3% mean), Qwen3-235B (81.8%) and GLM-5 (81.0%) match Jev (80.7%); on MNLI, Kimi and Qwen beat Jev by 7 to 10 points.
-- Calibration: after a temperature fitted on 150 labels per task, Qwen3-235B, Kimi K2.5 and GLM-5 have lower calibration error than Jev on all four tasks.
-- Cost: $0.09 to $0.47 per 1,000 questions on Bedrock, against $0.017 for Jev. Self-hosted cost on an H100 is not measured yet.
+Per-item results are in `bench/results/`.
