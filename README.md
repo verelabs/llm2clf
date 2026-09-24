@@ -72,6 +72,8 @@ Cost:
 | Kimi K2.5 | $0.60 | $0.291 |
 | GLM-5 | $1.00 | $0.471 |
 
+On Bedrock every question resends the full state, so a request with 5 questions about one passage uses 4 to 5 times the input tokens Jev bills. Self-hosting with the SGLang backend should remove that overhead, because its prefix cache computes the state once for all questions. We project this would be much cheaper than Bedrock, but it is not measured yet, and it only holds if the GPU stays busy. It also depends on model size: the most accurate models above need a multi-GPU machine.
+
 ## Reproduce
 
 ```bash
